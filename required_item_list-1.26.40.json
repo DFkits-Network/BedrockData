@@ -10,7 +10,7 @@
         "version": 2
     },
     "minecraft:acacia_chest_boat": {
-        "runtime_id": 657,
+        "runtime_id": 655,
         "component_based": false,
         "version": 2
     },
@@ -120,7 +120,7 @@
         "version": 2
     },
     "minecraft:allay_spawn_egg": {
-        "runtime_id": 646,
+        "runtime_id": 644,
         "component_based": false,
         "version": 2
     },
@@ -145,7 +145,7 @@
         "version": 2
     },
     "minecraft:amethyst_shard": {
-        "runtime_id": 639,
+        "runtime_id": 637,
         "component_based": false,
         "version": 2
     },
@@ -180,7 +180,7 @@
         "version": 2
     },
     "minecraft:angler_pottery_sherd": {
-        "runtime_id": 672,
+        "runtime_id": 670,
         "component_based": false,
         "version": 2
     },
@@ -190,23 +190,23 @@
         "version": 2
     },
     "minecraft:apple": {
-        "runtime_id": 882,
+        "runtime_id": 878,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AgAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemVAAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgHAGRlZmF1bHQFAGFwcGxlAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24BAAAAAwwAdXNlX2R1cmF0aW9uIAAAAAAJCQBpdGVtX3RhZ3MIAQAAABEAbWluZWNyYWZ0OmlzX2Zvb2QKFgBtaW5lY3JhZnQ6ZGlzcGxheV9uYW1lCAUAdmFsdWUPAGl0ZW0uYXBwbGUubmFtZQAKDgBtaW5lY3JhZnQ6Zm9vZAEOAGNhbl9hbHdheXNfZWF0AAMJAG51dHJpdGlvbgQAAAAFEwBzYXR1cmF0aW9uX21vZGlmaWVympmZPgoRAHVzaW5nX2NvbnZlcnRzX3RvAAAKDgBtaW5lY3JhZnQ6dGFncwkEAHRhZ3MIAQAAABEAbWluZWNyYWZ0OmlzX2Zvb2QAChcAbWluZWNyYWZ0OnVzZV9hbmltYXRpb24IBQB2YWx1ZQMAZWF0AAoXAG1pbmVjcmFmdDp1c2VfbW9kaWZpZXJzAQ8AZW1pdF92aWJyYXRpb25zAQURAG1vdmVtZW50X21vZGlmaWVyMzOzPggLAHN0YXJ0X3VzaW5nBgBhbHdheXMFDAB1c2VfZHVyYXRpb27NzMw\/AAAA"
     },
     "minecraft:archer_pottery_sherd": {
-        "runtime_id": 673,
+        "runtime_id": 671,
         "component_based": false,
         "version": 2
     },
     "minecraft:armadillo_scute": {
-        "runtime_id": 722,
+        "runtime_id": 720,
         "component_based": false,
         "version": 2
     },
     "minecraft:armadillo_spawn_egg": {
-        "runtime_id": 721,
+        "runtime_id": 719,
         "component_based": false,
         "version": 2
     },
@@ -216,7 +216,7 @@
         "version": 2
     },
     "minecraft:arms_up_pottery_sherd": {
-        "runtime_id": 674,
+        "runtime_id": 672,
         "component_based": false,
         "version": 2
     },
@@ -262,7 +262,7 @@
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoOAG1pbmVjcmFmdDpmb29kAQ4AY2FuX2Fsd2F5c19lYXQAAw0AY29vbGRvd25fdGltZQAAAAAIDQBjb29sZG93bl90eXBlAAADCQBudXRyaXRpb24FAAAAAw0Ab25fdXNlX2FjdGlvbv\/\/\/\/8JDABvbl91c2VfcmFuZ2UFAwAAAAAAAEEAAABBAAAAQQUTAHNhdHVyYXRpb25fbW9kaWZpZXKamRk\/CBEAdXNpbmdfY29udmVydHNfdG8AAAADFgBtaW5lY3JhZnQ6dXNlX2R1cmF0aW9uIAAAAAAA"
     },
     "minecraft:balloon": {
-        "runtime_id": 614,
+        "runtime_id": 612,
         "component_based": false,
         "version": 2
     },
@@ -282,7 +282,7 @@
         "version": 2
     },
     "minecraft:bamboo_chest_raft": {
-        "runtime_id": 669,
+        "runtime_id": 667,
         "component_based": false,
         "version": 2
     },
@@ -342,7 +342,7 @@
         "version": 2
     },
     "minecraft:bamboo_raft": {
-        "runtime_id": 668,
+        "runtime_id": 666,
         "component_based": false,
         "version": 2
     },
@@ -357,7 +357,7 @@
         "version": 2
     },
     "minecraft:bamboo_sign": {
-        "runtime_id": 667,
+        "runtime_id": 665,
         "component_based": false,
         "version": 2
     },
@@ -392,7 +392,7 @@
         "version": 2
     },
     "minecraft:banner_pattern": {
-        "runtime_id": 849,
+        "runtime_id": 847,
         "component_based": false,
         "version": 2
     },
@@ -491,7 +491,7 @@
         "version": 2
     },
     "minecraft:birch_chest_boat": {
-        "runtime_id": 654,
+        "runtime_id": 652,
         "component_based": false,
         "version": 2
     },
@@ -586,7 +586,7 @@
         "version": 2
     },
     "minecraft:black_bundle": {
-        "runtime_id": 861,
+        "runtime_id": 857,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sWAGJ1bmRsZV9ibGFja19vcGVuX2JhY2sIEQBidW5kbGVfb3Blbl9mcm9udBcAYnVuZGxlX2JsYWNrX29wZW5fZnJvbnQIBwBkZWZhdWx0DABidW5kbGVfYmxhY2sAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -611,28 +611,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:black_concrete_double_slab": {
-        "runtime_id": -1234,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:black_concrete_powder": {
         "runtime_id": -723,
         "component_based": false,
         "version": 2
     },
-    "minecraft:black_concrete_slab": {
-        "runtime_id": -1218,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:black_concrete_stairs": {
-        "runtime_id": -1214,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:black_cushion": {
-        "runtime_id": 775,
+        "runtime_id": 773,
         "component_based": false,
         "version": 2
     },
@@ -647,7 +632,7 @@
         "version": 2
     },
     "minecraft:black_harness": {
-        "runtime_id": 732,
+        "runtime_id": 730,
         "component_based": false,
         "version": 2
     },
@@ -673,21 +658,6 @@
     },
     "minecraft:black_wool": {
         "runtime_id": -554,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:black_wool_double_slab": {
-        "runtime_id": -1184,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:black_wool_slab": {
-        "runtime_id": -1168,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:black_wool_stairs": {
-        "runtime_id": -1164,
         "component_based": false,
         "version": 2
     },
@@ -717,7 +687,7 @@
         "version": 2
     },
     "minecraft:blade_pottery_sherd": {
-        "runtime_id": 675,
+        "runtime_id": 673,
         "component_based": false,
         "version": 2
     },
@@ -742,12 +712,12 @@
         "version": 2
     },
     "minecraft:bleach": {
-        "runtime_id": 612,
+        "runtime_id": 610,
         "component_based": false,
         "version": 2
     },
     "minecraft:blue_bundle": {
-        "runtime_id": 862,
+        "runtime_id": 858,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sVAGJ1bmRsZV9ibHVlX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250FgBidW5kbGVfYmx1ZV9vcGVuX2Zyb250CAcAZGVmYXVsdAsAYnVuZGxlX2JsdWUAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -772,28 +742,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:blue_concrete_double_slab": {
-        "runtime_id": -1243,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:blue_concrete_powder": {
         "runtime_id": -719,
         "component_based": false,
         "version": 2
     },
-    "minecraft:blue_concrete_slab": {
-        "runtime_id": -1227,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:blue_concrete_stairs": {
-        "runtime_id": -1201,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:blue_cushion": {
-        "runtime_id": 776,
+        "runtime_id": 774,
         "component_based": false,
         "version": 2
     },
@@ -803,7 +758,7 @@
         "version": 2
     },
     "minecraft:blue_egg": {
-        "runtime_id": 729,
+        "runtime_id": 727,
         "component_based": false,
         "version": 2
     },
@@ -813,7 +768,7 @@
         "version": 2
     },
     "minecraft:blue_harness": {
-        "runtime_id": 733,
+        "runtime_id": 731,
         "component_based": false,
         "version": 2
     },
@@ -852,28 +807,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:blue_wool_double_slab": {
-        "runtime_id": -1193,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:blue_wool_slab": {
-        "runtime_id": -1177,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:blue_wool_stairs": {
-        "runtime_id": -1151,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:board": {
         "runtime_id": 606,
         "component_based": false,
         "version": 2
     },
     "minecraft:boat": {
-        "runtime_id": 845,
+        "runtime_id": 843,
         "component_based": false,
         "version": 2
     },
@@ -883,7 +823,7 @@
         "version": 2
     },
     "minecraft:bolt_armor_trim_smithing_template": {
-        "runtime_id": 714,
+        "runtime_id": 712,
         "component_based": false,
         "version": 2
     },
@@ -959,7 +899,7 @@
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoOAG1pbmVjcmFmdDpmb29kAQ4AY2FuX2Fsd2F5c19lYXQAAw0AY29vbGRvd25fdGltZQAAAAAIDQBjb29sZG93bl90eXBlAAADCQBudXRyaXRpb24FAAAAAw0Ab25fdXNlX2FjdGlvbv\/\/\/\/8JDABvbl91c2VfcmFuZ2UFAwAAAAAAAEEAAABBAAAAQQUTAHNhdHVyYXRpb25fbW9kaWZpZXKamRk\/CBEAdXNpbmdfY29udmVydHNfdG8AAAADFgBtaW5lY3JhZnQ6dXNlX2R1cmF0aW9uIAAAAAAA"
     },
     "minecraft:breeze_rod": {
-        "runtime_id": 878,
+        "runtime_id": 874,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5BAAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAEBEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemVAAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgHAGRlZmF1bHQKAGJyZWV6ZV9yb2QAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChYAbWluZWNyYWZ0OmRpc3BsYXlfbmFtZQgFAHZhbHVlFABpdGVtLmJyZWV6ZV9yb2QubmFtZQAKFwBtaW5lY3JhZnQ6aGFuZF9lcXVpcHBlZAEFAHZhbHVlAQAAAA=="
@@ -970,7 +910,7 @@
         "version": 2
     },
     "minecraft:brewer_pottery_sherd": {
-        "runtime_id": 676,
+        "runtime_id": 674,
         "component_based": false,
         "version": 2
     },
@@ -1010,7 +950,7 @@
         "version": 2
     },
     "minecraft:brown_bundle": {
-        "runtime_id": 863,
+        "runtime_id": 859,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sWAGJ1bmRsZV9icm93bl9vcGVuX2JhY2sIEQBidW5kbGVfb3Blbl9mcm9udBcAYnVuZGxlX2Jyb3duX29wZW5fZnJvbnQIBwBkZWZhdWx0DABidW5kbGVfYnJvd24AAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -1035,28 +975,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:brown_concrete_double_slab": {
-        "runtime_id": -1235,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:brown_concrete_powder": {
         "runtime_id": -720,
         "component_based": false,
         "version": 2
     },
-    "minecraft:brown_concrete_slab": {
-        "runtime_id": -1219,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:brown_concrete_stairs": {
-        "runtime_id": -1213,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:brown_cushion": {
-        "runtime_id": 777,
+        "runtime_id": 775,
         "component_based": false,
         "version": 2
     },
@@ -1066,7 +991,7 @@
         "version": 2
     },
     "minecraft:brown_egg": {
-        "runtime_id": 730,
+        "runtime_id": 728,
         "component_based": false,
         "version": 2
     },
@@ -1076,7 +1001,7 @@
         "version": 2
     },
     "minecraft:brown_harness": {
-        "runtime_id": 734,
+        "runtime_id": 732,
         "component_based": false,
         "version": 2
     },
@@ -1115,23 +1040,8 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:brown_wool_double_slab": {
-        "runtime_id": -1185,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:brown_wool_slab": {
-        "runtime_id": -1169,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:brown_wool_stairs": {
-        "runtime_id": -1163,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:brush": {
-        "runtime_id": 695,
+        "runtime_id": 693,
         "component_based": false,
         "version": 2
     },
@@ -1171,13 +1081,13 @@
         "version": 2
     },
     "minecraft:bundle": {
-        "runtime_id": 864,
+        "runtime_id": 860,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sQAGJ1bmRsZV9vcGVuX2JhY2sIEQBidW5kbGVfb3Blbl9mcm9udBEAYnVuZGxlX29wZW5fZnJvbnQIBwBkZWZhdWx0BgBidW5kbGUAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
     },
     "minecraft:burn_pottery_sherd": {
-        "runtime_id": 677,
+        "runtime_id": 675,
         "component_based": false,
         "version": 2
     },
@@ -1212,17 +1122,17 @@
         "version": 2
     },
     "minecraft:camel_husk_spawn_egg": {
-        "runtime_id": 671,
+        "runtime_id": 669,
         "component_based": false,
         "version": 2
     },
     "minecraft:camel_spawn_egg": {
-        "runtime_id": 670,
+        "runtime_id": 668,
         "component_based": false,
         "version": 2
     },
     "minecraft:camera": {
-        "runtime_id": 609,
+        "runtime_id": 607,
         "component_based": false,
         "version": 0,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwgPAG1pbmVjcmFmdDpibG9jaxAAbWluZWNyYWZ0OmNhbWVyYQoQAG1pbmVjcmFmdDpjYW1lcmEFEwBibGFja19iYXJzX2R1cmF0aW9uzcxMPgUXAGJsYWNrX2JhcnNfc2NyZWVuX3JhdGlvCtejPQUQAHBpY3R1cmVfZHVyYXRpb24AAIA\/BRAAc2h1dHRlcl9kdXJhdGlvbs3MTD4FFABzaHV0dGVyX3NjcmVlbl9yYXRpbwAAAD8FEwBzbGlkZV9hd2F5X2R1cmF0aW9uzcxMPgADFgBtaW5lY3JhZnQ6dXNlX2R1cmF0aW9uoIYBAAAA"
@@ -1243,7 +1153,7 @@
         "version": 2
     },
     "minecraft:carpet": {
-        "runtime_id": 792,
+        "runtime_id": 790,
         "component_based": false,
         "version": 2
     },
@@ -1344,12 +1254,12 @@
         "version": 2
     },
     "minecraft:chemistry_table": {
-        "runtime_id": 838,
+        "runtime_id": 836,
         "component_based": false,
         "version": 2
     },
     "minecraft:cherry_boat": {
-        "runtime_id": 664,
+        "runtime_id": 662,
         "component_based": false,
         "version": 2
     },
@@ -1359,7 +1269,7 @@
         "version": 2
     },
     "minecraft:cherry_chest_boat": {
-        "runtime_id": 665,
+        "runtime_id": 663,
         "component_based": false,
         "version": 2
     },
@@ -1419,7 +1329,7 @@
         "version": 2
     },
     "minecraft:cherry_sign": {
-        "runtime_id": 666,
+        "runtime_id": 664,
         "component_based": false,
         "version": 2
     },
@@ -1459,7 +1369,7 @@
         "version": 2
     },
     "minecraft:chest_boat": {
-        "runtime_id": 660,
+        "runtime_id": 658,
         "component_based": false,
         "version": 2
     },
@@ -1666,7 +1576,7 @@
         "version": 2
     },
     "minecraft:coast_armor_trim_smithing_template": {
-        "runtime_id": 699,
+        "runtime_id": 697,
         "component_based": false,
         "version": 2
     },
@@ -1747,7 +1657,7 @@
         "version": 2
     },
     "minecraft:colored_torch_bp": {
-        "runtime_id": 843,
+        "runtime_id": 841,
         "component_based": false,
         "version": 2
     },
@@ -1767,7 +1677,7 @@
         "version": 2
     },
     "minecraft:colored_torch_rg": {
-        "runtime_id": 842,
+        "runtime_id": 840,
         "component_based": false,
         "version": 2
     },
@@ -1797,7 +1707,7 @@
         "version": 2
     },
     "minecraft:compound": {
-        "runtime_id": 610,
+        "runtime_id": 608,
         "component_based": false,
         "version": 2
     },
@@ -1807,12 +1717,12 @@
         "version": 2
     },
     "minecraft:concrete": {
-        "runtime_id": 826,
+        "runtime_id": 824,
         "component_based": false,
         "version": 2
     },
     "minecraft:concrete_powder": {
-        "runtime_id": 827,
+        "runtime_id": 825,
         "component_based": false,
         "version": 2
     },
@@ -1870,7 +1780,7 @@
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoOAG1pbmVjcmFmdDpmb29kAQ4AY2FuX2Fsd2F5c19lYXQAAw0AY29vbGRvd25fdGltZQAAAAAIDQBjb29sZG93bl90eXBlAAADCQBudXRyaXRpb24CAAAAAw0Ab25fdXNlX2FjdGlvbv\/\/\/\/8JDABvbl91c2VfcmFuZ2UFAwAAAAAAAEEAAABBAAAAQQUTAHNhdHVyYXRpb25fbW9kaWZpZXLNzMw9CBEAdXNpbmdfY29udmVydHNfdG8AAAADFgBtaW5lY3JhZnQ6dXNlX2R1cmF0aW9uIAAAAAAA"
     },
     "minecraft:copper_axe": {
-        "runtime_id": 752,
+        "runtime_id": 750,
         "component_based": false,
         "version": 2
     },
@@ -1885,7 +1795,7 @@
         "version": 2
     },
     "minecraft:copper_boots": {
-        "runtime_id": 757,
+        "runtime_id": 755,
         "component_based": false,
         "version": 2
     },
@@ -1905,7 +1815,7 @@
         "version": 2
     },
     "minecraft:copper_chestplate": {
-        "runtime_id": 755,
+        "runtime_id": 753,
         "component_based": false,
         "version": 2
     },
@@ -1915,7 +1825,7 @@
         "version": 2
     },
     "minecraft:copper_golem_spawn_egg": {
-        "runtime_id": 748,
+        "runtime_id": 746,
         "component_based": false,
         "version": 2
     },
@@ -1930,17 +1840,17 @@
         "version": 2
     },
     "minecraft:copper_helmet": {
-        "runtime_id": 754,
+        "runtime_id": 752,
         "component_based": false,
         "version": 2
     },
     "minecraft:copper_hoe": {
-        "runtime_id": 753,
+        "runtime_id": 751,
         "component_based": false,
         "version": 2
     },
     "minecraft:copper_horse_armor": {
-        "runtime_id": 759,
+        "runtime_id": 757,
         "component_based": false,
         "version": 2
     },
@@ -1955,17 +1865,17 @@
         "version": 2
     },
     "minecraft:copper_leggings": {
-        "runtime_id": 756,
+        "runtime_id": 754,
         "component_based": false,
         "version": 2
     },
     "minecraft:copper_nautilus_armor": {
-        "runtime_id": 763,
+        "runtime_id": 761,
         "component_based": false,
         "version": 2
     },
     "minecraft:copper_nugget": {
-        "runtime_id": 758,
+        "runtime_id": 756,
         "component_based": false,
         "version": 2
     },
@@ -1975,23 +1885,23 @@
         "version": 2
     },
     "minecraft:copper_pickaxe": {
-        "runtime_id": 751,
+        "runtime_id": 749,
         "component_based": false,
         "version": 2
     },
     "minecraft:copper_shovel": {
-        "runtime_id": 750,
+        "runtime_id": 748,
         "component_based": false,
         "version": 2
     },
     "minecraft:copper_spear": {
-        "runtime_id": 854,
+        "runtime_id": 850,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UCAAAACBAAZW5jaGFudGFibGVfc2xvdAsAbWVsZWVfc3BlYXIDEQBlbmNoYW50YWJsZV92YWx1ZQ0AAAABBABmb2lsAAMLAGZyYW1lX2NvdW50AQAAAAENAGhhbmRfZXF1aXBwZWQBARIAaGlkZGVuX2luX2NvbW1hbmRzAgEOAGxpcXVpZF9jbGlwcGVkAAMOAG1heF9zdGFja19zaXplAQAAAAoOAG1pbmVjcmFmdDppY29uCggAdGV4dHVyZXMIBwBkZWZhdWx0DABjb3BwZXJfc3BlYXIAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24A+RUAAAkJAGl0ZW1fdGFncwgCAAAAFQBtaW5lY3JhZnQ6Y29wcGVyX3RpZXISAG1pbmVjcmFmdDppc19zcGVhcgoSAG1pbmVjcmFmdDpjb29sZG93bggIAGNhdGVnb3J5BQBzcGVhcgUIAGR1cmF0aW9umplZPwgEAHR5cGUGAGF0dGFjawAKEABtaW5lY3JhZnQ6ZGFtYWdlAgUAdmFsdWUCAAAKFgBtaW5lY3JhZnQ6ZGlzcGxheV9uYW1lCAUAdmFsdWUWAGl0ZW0uY29wcGVyX3NwZWFyLm5hbWUAChQAbWluZWNyYWZ0OmR1cmFiaWxpdHkKDQBkYW1hZ2VfY2hhbmNlAwMAbWF4ZAAAAAMDAG1pbgAAAAAAAw4AbWF4X2R1cmFiaWxpdHm+AAAAAAoVAG1pbmVjcmFmdDplbmNoYW50YWJsZQgEAHNsb3QLAG1lbGVlX3NwZWFyAQUAdmFsdWUNAAoXAG1pbmVjcmFmdDpoYW5kX2VxdWlwcGVkAQUAdmFsdWUBAAoYAG1pbmVjcmFmdDpraW5ldGljX3dlYXBvbgoYAG1pbmVjcmFmdDpraW5ldGljX3dlYXBvbgoOAGNyZWF0aXZlX3JlYWNoBQMAbWF4AADwQAUDAG1pbgAAAEAAChEAZGFtYWdlX2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb276AAUSAG1pbl9yZWxhdGl2ZV9zcGVlZDMzk0AFCQBtaW5fc3BlZWQAAAAAAAUPAGRhbWFnZV9tb2RpZmllcgAAAAAFEQBkYW1hZ2VfbXVsdGlwbGllcoXrUT8CBQBkZWxheQ0AChMAZGlzbW91bnRfY29uZGl0aW9ucwIMAG1heF9kdXJhdGlvblAABRIAbWluX3JlbGF0aXZlX3NwZWVkAAAAAAUJAG1pbl9zcGVlZAAAQEEABQ0AaGl0Ym94X21hcmdpbgAAgD4KFABrbm9ja2JhY2tfY29uZGl0aW9ucwIMAG1heF9kdXJhdGlvbqUABRIAbWluX3JlbGF0aXZlX3NwZWVkAAAAAAUJAG1pbl9zcGVlZDMzo0AACgUAcmVhY2gFAwBtYXgAAJBABQMAbWluAAAAQAAAAAoYAG1pbmVjcmFmdDptYXhfc3RhY2tfc2l6ZQEFAHZhbHVlAQAKGQBtaW5lY3JhZnQ6cGllcmNpbmdfd2VhcG9uCg4AY3JlYXRpdmVfcmVhY2gFAwBtYXgAAPBABQMAbWluAAAAQAAFDQBoaXRib3hfbWFyZ2luAACAPgoFAHJlYWNoBQMAbWF4AACQQAUDAG1pbgAAAEAAAAoUAG1pbmVjcmFmdDpyZXBhaXJhYmxlCQwAcmVwYWlyX2l0ZW1zCgIAAAAJBQBpdGVtcwoBAAAACAQAbmFtZRYAbWluZWNyYWZ0OmNvcHBlcl9zcGVhcgAIDQByZXBhaXJfYW1vdW50KQBjb250ZXh0Lm90aGVyLT5xdWVyeS5yZW1haW5pbmdfZHVyYWJpbGl0eQAJBQBpdGVtcwoBAAAACAQAbmFtZRYAbWluZWNyYWZ0OmNvcHBlcl9pbmdvdAAIDQByZXBhaXJfYW1vdW50GwBxdWVyeS5tYXhfZHVyYWJpbGl0eSAqIDAuMjUAAAoYAG1pbmVjcmFmdDpzd2luZ19kdXJhdGlvbgUFAHZhbHVlmplZPwAKFgBtaW5lY3JhZnQ6c3dpbmdfc291bmRzCAoAYXR0YWNrX2hpdBwAaXRlbS5jb3BwZXJfc3BlYXIuYXR0YWNrX2hpdAgLAGF0dGFja19taXNzHQBpdGVtLmNvcHBlcl9zcGVhci5hdHRhY2tfbWlzcwAKDgBtaW5lY3JhZnQ6dGFncwkEAHRhZ3MIAgAAABUAbWluZWNyYWZ0OmNvcHBlcl90aWVyEgBtaW5lY3JhZnQ6aXNfc3BlYXIAChcAbWluZWNyYWZ0OnVzZV9tb2RpZmllcnMBDwBlbWl0X3ZpYnJhdGlvbnMABREAbW92ZW1lbnRfbW9kaWZpZXIAAIA\/CAsAc3RhcnRfc291bmQVAGl0ZW0uY29wcGVyX3NwZWFyLnVzZQgLAHN0YXJ0X3VzaW5nBgBhbHdheXMFDAB1c2VfZHVyYXRpb24AoIxHAAAA"
     },
     "minecraft:copper_sword": {
-        "runtime_id": 749,
+        "runtime_id": 747,
         "component_based": false,
         "version": 2
     },
@@ -2006,22 +1916,22 @@
         "version": 2
     },
     "minecraft:coral": {
-        "runtime_id": 820,
+        "runtime_id": 818,
         "component_based": false,
         "version": 2
     },
     "minecraft:coral_block": {
-        "runtime_id": 796,
+        "runtime_id": 794,
         "component_based": false,
         "version": 2
     },
     "minecraft:coral_fan": {
-        "runtime_id": 805,
+        "runtime_id": 803,
         "component_based": false,
         "version": 2
     },
     "minecraft:coral_fan_dead": {
-        "runtime_id": 806,
+        "runtime_id": 804,
         "component_based": false,
         "version": 2
     },
@@ -2076,7 +1986,7 @@
         "version": 2
     },
     "minecraft:creaking_spawn_egg": {
-        "runtime_id": 727,
+        "runtime_id": 725,
         "component_based": false,
         "version": 2
     },
@@ -2101,7 +2011,7 @@
         "version": 2
     },
     "minecraft:crimson_door": {
-        "runtime_id": 632,
+        "runtime_id": 630,
         "component_based": false,
         "version": 2
     },
@@ -2161,7 +2071,7 @@
         "version": 2
     },
     "minecraft:crimson_sign": {
-        "runtime_id": 630,
+        "runtime_id": 628,
         "component_based": false,
         "version": 2
     },
@@ -2251,7 +2161,7 @@
         "version": 2
     },
     "minecraft:cyan_bundle": {
-        "runtime_id": 865,
+        "runtime_id": 861,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sVAGJ1bmRsZV9jeWFuX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250FgBidW5kbGVfY3lhbl9vcGVuX2Zyb250CAcAZGVmYXVsdAsAYnVuZGxlX2N5YW4AAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -2276,28 +2186,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:cyan_concrete_double_slab": {
-        "runtime_id": -1241,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:cyan_concrete_powder": {
         "runtime_id": -717,
         "component_based": false,
         "version": 2
     },
-    "minecraft:cyan_concrete_slab": {
-        "runtime_id": -1225,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:cyan_concrete_stairs": {
-        "runtime_id": -1210,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:cyan_cushion": {
-        "runtime_id": 778,
+        "runtime_id": 776,
         "component_based": false,
         "version": 2
     },
@@ -2312,7 +2207,7 @@
         "version": 2
     },
     "minecraft:cyan_harness": {
-        "runtime_id": 735,
+        "runtime_id": 733,
         "component_based": false,
         "version": 2
     },
@@ -2341,21 +2236,6 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:cyan_wool_double_slab": {
-        "runtime_id": -1191,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:cyan_wool_slab": {
-        "runtime_id": -1175,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:cyan_wool_stairs": {
-        "runtime_id": -1160,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:damaged_anvil": {
         "runtime_id": -960,
         "component_based": false,
@@ -2367,7 +2247,7 @@
         "version": 2
     },
     "minecraft:danger_pottery_sherd": {
-        "runtime_id": 678,
+        "runtime_id": 676,
         "component_based": false,
         "version": 2
     },
@@ -2382,7 +2262,7 @@
         "version": 2
     },
     "minecraft:dark_oak_chest_boat": {
-        "runtime_id": 658,
+        "runtime_id": 656,
         "component_based": false,
         "version": 2
     },
@@ -2782,7 +2662,7 @@
         "version": 2
     },
     "minecraft:diamond_nautilus_armor": {
-        "runtime_id": 766,
+        "runtime_id": 764,
         "component_based": false,
         "version": 2
     },
@@ -2802,7 +2682,7 @@
         "version": 2
     },
     "minecraft:diamond_spear": {
-        "runtime_id": 855,
+        "runtime_id": 851,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UEAAAACBAAZW5jaGFudGFibGVfc2xvdAsAbWVsZWVfc3BlYXIDEQBlbmNoYW50YWJsZV92YWx1ZQoAAAABBABmb2lsAAMLAGZyYW1lX2NvdW50AQAAAAENAGhhbmRfZXF1aXBwZWQBARIAaGlkZGVuX2luX2NvbW1hbmRzAgEOAGxpcXVpZF9jbGlwcGVkAAMOAG1heF9zdGFja19zaXplAQAAAAoOAG1pbmVjcmFmdDppY29uCggAdGV4dHVyZXMIBwBkZWZhdWx0DQBkaWFtb25kX3NwZWFyAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAPkVAAAJCQBpdGVtX3RhZ3MIAwAAABYAbWluZWNyYWZ0OmRpYW1vbmRfdGllch0AbWluZWNyYWZ0OnRyYW5zZm9ybWFibGVfaXRlbXMSAG1pbmVjcmFmdDppc19zcGVhcgoSAG1pbmVjcmFmdDpjb29sZG93bggIAGNhdGVnb3J5BQBzcGVhcgUIAGR1cmF0aW9uZmaGPwgEAHR5cGUGAGF0dGFjawAKEABtaW5lY3JhZnQ6ZGFtYWdlAgUAdmFsdWUEAAAKFgBtaW5lY3JhZnQ6ZGlzcGxheV9uYW1lCAUAdmFsdWUXAGl0ZW0uZGlhbW9uZF9zcGVhci5uYW1lAAoUAG1pbmVjcmFmdDpkdXJhYmlsaXR5Cg0AZGFtYWdlX2NoYW5jZQMDAG1heGQAAAADAwBtaW4AAAAAAAMOAG1heF9kdXJhYmlsaXR5GAYAAAAKFQBtaW5lY3JhZnQ6ZW5jaGFudGFibGUIBABzbG90CwBtZWxlZV9zcGVhcgEFAHZhbHVlCgAKFwBtaW5lY3JhZnQ6aGFuZF9lcXVpcHBlZAEFAHZhbHVlAQAKGABtaW5lY3JhZnQ6a2luZXRpY193ZWFwb24KGABtaW5lY3JhZnQ6a2luZXRpY193ZWFwb24KDgBjcmVhdGl2ZV9yZWFjaAUDAG1heAAA8EAFAwBtaW4AAABAAAoRAGRhbWFnZV9jb25kaXRpb25zAgwAbWF4X2R1cmF0aW9uyAAFEgBtaW5fcmVsYXRpdmVfc3BlZWQzM5NABQkAbWluX3NwZWVkAAAAAAAFDwBkYW1hZ2VfbW9kaWZpZXIAAAAABREAZGFtYWdlX211bHRpcGxpZXKamYk\/AgUAZGVsYXkKAAoTAGRpc21vdW50X2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb248AAUSAG1pbl9yZWxhdGl2ZV9zcGVlZAAAAAAFCQBtaW5fc3BlZWQAACBBAAUNAGhpdGJveF9tYXJnaW4AAIA+ChQAa25vY2tiYWNrX2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb26CAAUSAG1pbl9yZWxhdGl2ZV9zcGVlZAAAAAAFCQBtaW5fc3BlZWQzM6NAAAoFAHJlYWNoBQMAbWF4AACQQAUDAG1pbgAAAEAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChkAbWluZWNyYWZ0OnBpZXJjaW5nX3dlYXBvbgoOAGNyZWF0aXZlX3JlYWNoBQMAbWF4AADwQAUDAG1pbgAAAEAABQ0AaGl0Ym94X21hcmdpbgAAgD4KBQByZWFjaAUDAG1heAAAkEAFAwBtaW4AAABAAAAKFABtaW5lY3JhZnQ6cmVwYWlyYWJsZQkMAHJlcGFpcl9pdGVtcwoCAAAACQUAaXRlbXMKAQAAAAgEAG5hbWUXAG1pbmVjcmFmdDpkaWFtb25kX3NwZWFyAAgNAHJlcGFpcl9hbW91bnQpAGNvbnRleHQub3RoZXItPnF1ZXJ5LnJlbWFpbmluZ19kdXJhYmlsaXR5AAkFAGl0ZW1zCgEAAAAIBABuYW1lEQBtaW5lY3JhZnQ6ZGlhbW9uZAAIDQByZXBhaXJfYW1vdW50GwBxdWVyeS5tYXhfZHVyYWJpbGl0eSAqIDAuMjUAAAoYAG1pbmVjcmFmdDpzd2luZ19kdXJhdGlvbgUFAHZhbHVlZmaGPwAKFgBtaW5lY3JhZnQ6c3dpbmdfc291bmRzCAoAYXR0YWNrX2hpdB0AaXRlbS5kaWFtb25kX3NwZWFyLmF0dGFja19oaXQICwBhdHRhY2tfbWlzcx4AaXRlbS5kaWFtb25kX3NwZWFyLmF0dGFja19taXNzAAoOAG1pbmVjcmFmdDp0YWdzCQQAdGFncwgDAAAAFgBtaW5lY3JhZnQ6ZGlhbW9uZF90aWVyHQBtaW5lY3JhZnQ6dHJhbnNmb3JtYWJsZV9pdGVtcxIAbWluZWNyYWZ0OmlzX3NwZWFyAAoXAG1pbmVjcmFmdDp1c2VfbW9kaWZpZXJzAQ8AZW1pdF92aWJyYXRpb25zAAURAG1vdmVtZW50X21vZGlmaWVyAACAPwgLAHN0YXJ0X3NvdW5kFgBpdGVtLmRpYW1vbmRfc3BlYXIudXNlCAsAc3RhcnRfdXNpbmcGAGFsd2F5cwUMAHVzZV9kdXJhdGlvbgCgjEcAAAA="
@@ -2848,7 +2728,7 @@
         "version": 2
     },
     "minecraft:disc_fragment_5": {
-        "runtime_id": 652,
+        "runtime_id": 650,
         "component_based": false,
         "version": 2
     },
@@ -2873,27 +2753,27 @@
         "version": 2
     },
     "minecraft:double_plant": {
-        "runtime_id": 814,
+        "runtime_id": 812,
         "component_based": false,
         "version": 2
     },
     "minecraft:double_stone_block_slab": {
-        "runtime_id": 801,
+        "runtime_id": 799,
         "component_based": false,
         "version": 2
     },
     "minecraft:double_stone_block_slab2": {
-        "runtime_id": 802,
+        "runtime_id": 800,
         "component_based": false,
         "version": 2
     },
     "minecraft:double_stone_block_slab3": {
-        "runtime_id": 803,
+        "runtime_id": 801,
         "component_based": false,
         "version": 2
     },
     "minecraft:double_stone_block_slab4": {
-        "runtime_id": 804,
+        "runtime_id": 802,
         "component_based": false,
         "version": 2
     },
@@ -2944,17 +2824,17 @@
         "version": 2
     },
     "minecraft:dune_armor_trim_smithing_template": {
-        "runtime_id": 698,
+        "runtime_id": 696,
         "component_based": false,
         "version": 2
     },
     "minecraft:dye": {
-        "runtime_id": 848,
+        "runtime_id": 846,
         "component_based": false,
         "version": 2
     },
     "minecraft:echo_shard": {
-        "runtime_id": 662,
+        "runtime_id": 660,
         "component_based": false,
         "version": 2
     },
@@ -3620,7 +3500,7 @@
         "version": 2
     },
     "minecraft:end_crystal": {
-        "runtime_id": 851,
+        "runtime_id": 849,
         "component_based": false,
         "version": 2
     },
@@ -3705,7 +3585,7 @@
         "version": 2
     },
     "minecraft:explorer_pottery_sherd": {
-        "runtime_id": 679,
+        "runtime_id": 677,
         "component_based": false,
         "version": 2
     },
@@ -3790,7 +3670,7 @@
         "version": 2
     },
     "minecraft:eye_armor_trim_smithing_template": {
-        "runtime_id": 702,
+        "runtime_id": 700,
         "component_based": false,
         "version": 2
     },
@@ -3805,7 +3685,7 @@
         "version": 2
     },
     "minecraft:fence": {
-        "runtime_id": 794,
+        "runtime_id": 792,
         "component_based": false,
         "version": 2
     },
@@ -3900,7 +3780,7 @@
         "version": 2
     },
     "minecraft:flow_armor_trim_smithing_template": {
-        "runtime_id": 713,
+        "runtime_id": 711,
         "component_based": false,
         "version": 2
     },
@@ -3910,7 +3790,7 @@
         "version": 2
     },
     "minecraft:flow_pottery_sherd": {
-        "runtime_id": 680,
+        "runtime_id": 678,
         "component_based": false,
         "version": 2
     },
@@ -3950,7 +3830,7 @@
         "version": 2
     },
     "minecraft:friend_pottery_sherd": {
-        "runtime_id": 681,
+        "runtime_id": 679,
         "component_based": false,
         "version": 2
     },
@@ -3960,7 +3840,7 @@
         "version": 2
     },
     "minecraft:frog_spawn_egg": {
-        "runtime_id": 643,
+        "runtime_id": 641,
         "component_based": false,
         "version": 2
     },
@@ -4015,13 +3895,13 @@
         "version": 2
     },
     "minecraft:glow_berries": {
-        "runtime_id": 883,
+        "runtime_id": 879,
         "component_based": false,
         "version": 0,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoOAG1pbmVjcmFmdDpmb29kAQ4AY2FuX2Fsd2F5c19lYXQAAw0AY29vbGRvd25fdGltZQAAAAAIDQBjb29sZG93bl90eXBlAAADCQBudXRyaXRpb24CAAAAAw0Ab25fdXNlX2FjdGlvbv\/\/\/\/8JDABvbl91c2VfcmFuZ2UFAwAAAAAAAEEAAABBAAAAQQUTAHNhdHVyYXRpb25fbW9kaWZpZXKamZk+CBEAdXNpbmdfY29udmVydHNfdG8AAAAKDgBtaW5lY3JhZnQ6c2VlZAgLAGNyb3BfcmVzdWx0FABtaW5lY3JhZnQ6Y2F2ZV92aW5lcwkIAHBsYW50X2F0CAIAAAAKAGNhdmVfdmluZXMcAGNhdmVfdmluZXNfaGVhZF93aXRoX2JlcnJpZXMBGgBwbGFudF9hdF9hbnlfc29saWRfc3VyZmFjZQEIDQBwbGFudF9hdF9mYWNlBABkb3duAAMWAG1pbmVjcmFmdDp1c2VfZHVyYXRpb24gAAAAAAA="
     },
     "minecraft:glow_frame": {
-        "runtime_id": 638,
+        "runtime_id": 636,
         "component_based": true,
         "version": 2
     },
@@ -4041,7 +3921,7 @@
         "version": 2
     },
     "minecraft:glow_stick": {
-        "runtime_id": 617,
+        "runtime_id": 615,
         "component_based": false,
         "version": 2
     },
@@ -4061,7 +3941,7 @@
         "version": 2
     },
     "minecraft:goat_horn": {
-        "runtime_id": 642,
+        "runtime_id": 640,
         "component_based": false,
         "version": 2
     },
@@ -4143,7 +4023,7 @@
         "version": 2
     },
     "minecraft:golden_nautilus_armor": {
-        "runtime_id": 765,
+        "runtime_id": 763,
         "component_based": false,
         "version": 2
     },
@@ -4163,7 +4043,7 @@
         "version": 2
     },
     "minecraft:golden_spear": {
-        "runtime_id": 856,
+        "runtime_id": 852,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UBAAAACBAAZW5jaGFudGFibGVfc2xvdAsAbWVsZWVfc3BlYXIDEQBlbmNoYW50YWJsZV92YWx1ZRYAAAABBABmb2lsAAMLAGZyYW1lX2NvdW50AQAAAAENAGhhbmRfZXF1aXBwZWQBARIAaGlkZGVuX2luX2NvbW1hbmRzAgEOAGxpcXVpZF9jbGlwcGVkAAMOAG1heF9zdGFja19zaXplAQAAAAoOAG1pbmVjcmFmdDppY29uCggAdGV4dHVyZXMIBwBkZWZhdWx0CgBnb2xkX3NwZWFyAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAPkVAAAJCQBpdGVtX3RhZ3MIAgAAABUAbWluZWNyYWZ0OmdvbGRlbl90aWVyEgBtaW5lY3JhZnQ6aXNfc3BlYXIKEgBtaW5lY3JhZnQ6Y29vbGRvd24ICABjYXRlZ29yeQUAc3BlYXIFCABkdXJhdGlvbjMzcz8IBAB0eXBlBgBhdHRhY2sAChAAbWluZWNyYWZ0OmRhbWFnZQIFAHZhbHVlAQAAChYAbWluZWNyYWZ0OmRpc3BsYXlfbmFtZQgFAHZhbHVlFgBpdGVtLmdvbGRlbl9zcGVhci5uYW1lAAoUAG1pbmVjcmFmdDpkdXJhYmlsaXR5Cg0AZGFtYWdlX2NoYW5jZQMDAG1heGQAAAADAwBtaW4AAAAAAAMOAG1heF9kdXJhYmlsaXR5HgAAAAAKFQBtaW5lY3JhZnQ6ZW5jaGFudGFibGUIBABzbG90CwBtZWxlZV9zcGVhcgEFAHZhbHVlFgAKFwBtaW5lY3JhZnQ6aGFuZF9lcXVpcHBlZAEFAHZhbHVlAQAKGABtaW5lY3JhZnQ6a2luZXRpY193ZWFwb24KGABtaW5lY3JhZnQ6a2luZXRpY193ZWFwb24KDgBjcmVhdGl2ZV9yZWFjaAUDAG1heAAA8EAFAwBtaW4AAABAAAoRAGRhbWFnZV9jb25kaXRpb25zAgwAbWF4X2R1cmF0aW9uEwEFEgBtaW5fcmVsYXRpdmVfc3BlZWQzM5NABQkAbWluX3NwZWVkAAAAAAAFDwBkYW1hZ2VfbW9kaWZpZXIAAAAABREAZGFtYWdlX211bHRpcGxpZXIzMzM\/AgUAZGVsYXkOAAoTAGRpc21vdW50X2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb25GAAUSAG1pbl9yZWxhdGl2ZV9zcGVlZAAAAAAFCQBtaW5fc3BlZWQAAFBBAAUNAGhpdGJveF9tYXJnaW4AAIA+ChQAa25vY2tiYWNrX2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb26qAAUSAG1pbl9yZWxhdGl2ZV9zcGVlZAAAAAAFCQBtaW5fc3BlZWQzM6NAAAoFAHJlYWNoBQMAbWF4AACQQAUDAG1pbgAAAEAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChkAbWluZWNyYWZ0OnBpZXJjaW5nX3dlYXBvbgoOAGNyZWF0aXZlX3JlYWNoBQMAbWF4AADwQAUDAG1pbgAAAEAABQ0AaGl0Ym94X21hcmdpbgAAgD4KBQByZWFjaAUDAG1heAAAkEAFAwBtaW4AAABAAAAKFABtaW5lY3JhZnQ6cmVwYWlyYWJsZQkMAHJlcGFpcl9pdGVtcwoCAAAACQUAaXRlbXMKAQAAAAgEAG5hbWUWAG1pbmVjcmFmdDpnb2xkZW5fc3BlYXIACA0AcmVwYWlyX2Ftb3VudCkAY29udGV4dC5vdGhlci0+cXVlcnkucmVtYWluaW5nX2R1cmFiaWxpdHkACQUAaXRlbXMKAQAAAAgEAG5hbWUUAG1pbmVjcmFmdDpnb2xkX2luZ290AAgNAHJlcGFpcl9hbW91bnQbAHF1ZXJ5Lm1heF9kdXJhYmlsaXR5ICogMC4yNQAAChgAbWluZWNyYWZ0OnN3aW5nX2R1cmF0aW9uBQUAdmFsdWUzM3M\/AAoWAG1pbmVjcmFmdDpzd2luZ19zb3VuZHMICgBhdHRhY2tfaGl0HABpdGVtLmdvbGRlbl9zcGVhci5hdHRhY2tfaGl0CAsAYXR0YWNrX21pc3MdAGl0ZW0uZ29sZGVuX3NwZWFyLmF0dGFja19taXNzAAoOAG1pbmVjcmFmdDp0YWdzCQQAdGFncwgCAAAAFQBtaW5lY3JhZnQ6Z29sZGVuX3RpZXISAG1pbmVjcmFmdDppc19zcGVhcgAKFwBtaW5lY3JhZnQ6dXNlX21vZGlmaWVycwEPAGVtaXRfdmlicmF0aW9ucwAFEQBtb3ZlbWVudF9tb2RpZmllcgAAgD8ICwBzdGFydF9zb3VuZBUAaXRlbS5nb2xkZW5fc3BlYXIudXNlCAsAc3RhcnRfdXNpbmcGAGFsd2F5cwUMAHVzZV9kdXJhdGlvbgCgjEcAAAA="
@@ -4214,7 +4094,7 @@
         "version": 2
     },
     "minecraft:gray_bundle": {
-        "runtime_id": 866,
+        "runtime_id": 862,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sVAGJ1bmRsZV9ncmF5X29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250FgBidW5kbGVfZ3JheV9vcGVuX2Zyb250CAcAZGVmYXVsdAsAYnVuZGxlX2dyYXkAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -4239,28 +4119,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:gray_concrete_double_slab": {
-        "runtime_id": -1233,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:gray_concrete_powder": {
         "runtime_id": -715,
         "component_based": false,
         "version": 2
     },
-    "minecraft:gray_concrete_slab": {
-        "runtime_id": -1217,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:gray_concrete_stairs": {
-        "runtime_id": -1208,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:gray_cushion": {
-        "runtime_id": 779,
+        "runtime_id": 777,
         "component_based": false,
         "version": 2
     },
@@ -4275,7 +4140,7 @@
         "version": 2
     },
     "minecraft:gray_harness": {
-        "runtime_id": 736,
+        "runtime_id": 734,
         "component_based": false,
         "version": 2
     },
@@ -4304,23 +4169,8 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:gray_wool_double_slab": {
-        "runtime_id": -1183,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:gray_wool_slab": {
-        "runtime_id": -1167,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:gray_wool_stairs": {
-        "runtime_id": -1158,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:green_bundle": {
-        "runtime_id": 867,
+        "runtime_id": 863,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sWAGJ1bmRsZV9ncmVlbl9vcGVuX2JhY2sIEQBidW5kbGVfb3Blbl9mcm9udBcAYnVuZGxlX2dyZWVuX29wZW5fZnJvbnQIBwBkZWZhdWx0DABidW5kbGVfZ3JlZW4AAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -4345,28 +4195,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:green_concrete_double_slab": {
-        "runtime_id": -1240,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:green_concrete_powder": {
         "runtime_id": -721,
         "component_based": false,
         "version": 2
     },
-    "minecraft:green_concrete_slab": {
-        "runtime_id": -1224,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:green_concrete_stairs": {
-        "runtime_id": -1212,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:green_cushion": {
-        "runtime_id": 780,
+        "runtime_id": 778,
         "component_based": false,
         "version": 2
     },
@@ -4381,7 +4216,7 @@
         "version": 2
     },
     "minecraft:green_harness": {
-        "runtime_id": 737,
+        "runtime_id": 735,
         "component_based": false,
         "version": 2
     },
@@ -4410,21 +4245,6 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:green_wool_double_slab": {
-        "runtime_id": -1190,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:green_wool_slab": {
-        "runtime_id": -1174,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:green_wool_stairs": {
-        "runtime_id": -1162,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:grindstone": {
         "runtime_id": -195,
         "component_based": false,
@@ -4446,7 +4266,7 @@
         "version": 2
     },
     "minecraft:guster_pottery_sherd": {
-        "runtime_id": 682,
+        "runtime_id": 680,
         "component_based": false,
         "version": 2
     },
@@ -4456,7 +4276,7 @@
         "version": 2
     },
     "minecraft:happy_ghast_spawn_egg": {
-        "runtime_id": 731,
+        "runtime_id": 729,
         "component_based": false,
         "version": 2
     },
@@ -4611,12 +4431,12 @@
         "version": 2
     },
     "minecraft:hard_stained_glass": {
-        "runtime_id": 840,
+        "runtime_id": 838,
         "component_based": false,
         "version": 2
     },
     "minecraft:hard_stained_glass_pane": {
-        "runtime_id": 841,
+        "runtime_id": 839,
         "component_based": false,
         "version": 2
     },
@@ -4656,12 +4476,12 @@
         "version": 2
     },
     "minecraft:heart_pottery_sherd": {
-        "runtime_id": 683,
+        "runtime_id": 681,
         "component_based": false,
         "version": 2
     },
     "minecraft:heartbreak_pottery_sherd": {
-        "runtime_id": 684,
+        "runtime_id": 682,
         "component_based": false,
         "version": 2
     },
@@ -4737,12 +4557,12 @@
         "version": 2
     },
     "minecraft:host_armor_trim_smithing_template": {
-        "runtime_id": 712,
+        "runtime_id": 710,
         "component_based": false,
         "version": 2
     },
     "minecraft:howl_pottery_sherd": {
-        "runtime_id": 685,
+        "runtime_id": 683,
         "component_based": false,
         "version": 2
     },
@@ -4757,7 +4577,7 @@
         "version": 2
     },
     "minecraft:ice_bomb": {
-        "runtime_id": 611,
+        "runtime_id": 609,
         "component_based": false,
         "version": 2
     },
@@ -4882,7 +4702,7 @@
         "version": 2
     },
     "minecraft:iron_nautilus_armor": {
-        "runtime_id": 764,
+        "runtime_id": 762,
         "component_based": false,
         "version": 2
     },
@@ -4907,7 +4727,7 @@
         "version": 2
     },
     "minecraft:iron_spear": {
-        "runtime_id": 857,
+        "runtime_id": 853,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UDAAAACBAAZW5jaGFudGFibGVfc2xvdAsAbWVsZWVfc3BlYXIDEQBlbmNoYW50YWJsZV92YWx1ZQ4AAAABBABmb2lsAAMLAGZyYW1lX2NvdW50AQAAAAENAGhhbmRfZXF1aXBwZWQBARIAaGlkZGVuX2luX2NvbW1hbmRzAgEOAGxpcXVpZF9jbGlwcGVkAAMOAG1heF9zdGFja19zaXplAQAAAAoOAG1pbmVjcmFmdDppY29uCggAdGV4dHVyZXMIBwBkZWZhdWx0CgBpcm9uX3NwZWFyAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAPkVAAAJCQBpdGVtX3RhZ3MIAgAAABMAbWluZWNyYWZ0Omlyb25fdGllchIAbWluZWNyYWZ0OmlzX3NwZWFyChIAbWluZWNyYWZ0OmNvb2xkb3duCAgAY2F0ZWdvcnkFAHNwZWFyBQgAZHVyYXRpb24zM3M\/CAQAdHlwZQYAYXR0YWNrAAoQAG1pbmVjcmFmdDpkYW1hZ2UCBQB2YWx1ZQMAAAoWAG1pbmVjcmFmdDpkaXNwbGF5X25hbWUIBQB2YWx1ZRQAaXRlbS5pcm9uX3NwZWFyLm5hbWUAChQAbWluZWNyYWZ0OmR1cmFiaWxpdHkKDQBkYW1hZ2VfY2hhbmNlAwMAbWF4ZAAAAAMDAG1pbgAAAAAAAw4AbWF4X2R1cmFiaWxpdHn6AAAAAAoVAG1pbmVjcmFmdDplbmNoYW50YWJsZQgEAHNsb3QLAG1lbGVlX3NwZWFyAQUAdmFsdWUOAAoXAG1pbmVjcmFmdDpoYW5kX2VxdWlwcGVkAQUAdmFsdWUBAAoYAG1pbmVjcmFmdDpraW5ldGljX3dlYXBvbgoYAG1pbmVjcmFmdDpraW5ldGljX3dlYXBvbgoOAGNyZWF0aXZlX3JlYWNoBQMAbWF4AADwQAUDAG1pbgAAAEAAChEAZGFtYWdlX2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb27hAAUSAG1pbl9yZWxhdGl2ZV9zcGVlZDMzk0AFCQBtaW5fc3BlZWQAAAAAAAUPAGRhbWFnZV9tb2RpZmllcgAAAAAFEQBkYW1hZ2VfbXVsdGlwbGllcjMzcz8CBQBkZWxheQwAChMAZGlzbW91bnRfY29uZGl0aW9ucwIMAG1heF9kdXJhdGlvbjIABRIAbWluX3JlbGF0aXZlX3NwZWVkAAAAAAUJAG1pbl9zcGVlZAAAMEEABQ0AaGl0Ym94X21hcmdpbgAAgD4KFABrbm9ja2JhY2tfY29uZGl0aW9ucwIMAG1heF9kdXJhdGlvbocABRIAbWluX3JlbGF0aXZlX3NwZWVkAAAAAAUJAG1pbl9zcGVlZDMzo0AACgUAcmVhY2gFAwBtYXgAAJBABQMAbWluAAAAQAAAAAoYAG1pbmVjcmFmdDptYXhfc3RhY2tfc2l6ZQEFAHZhbHVlAQAKGQBtaW5lY3JhZnQ6cGllcmNpbmdfd2VhcG9uCg4AY3JlYXRpdmVfcmVhY2gFAwBtYXgAAPBABQMAbWluAAAAQAAFDQBoaXRib3hfbWFyZ2luAACAPgoFAHJlYWNoBQMAbWF4AACQQAUDAG1pbgAAAEAAAAoUAG1pbmVjcmFmdDpyZXBhaXJhYmxlCQwAcmVwYWlyX2l0ZW1zCgIAAAAJBQBpdGVtcwoBAAAACAQAbmFtZRQAbWluZWNyYWZ0Omlyb25fc3BlYXIACA0AcmVwYWlyX2Ftb3VudCkAY29udGV4dC5vdGhlci0+cXVlcnkucmVtYWluaW5nX2R1cmFiaWxpdHkACQUAaXRlbXMKAQAAAAgEAG5hbWUUAG1pbmVjcmFmdDppcm9uX2luZ290AAgNAHJlcGFpcl9hbW91bnQbAHF1ZXJ5Lm1heF9kdXJhYmlsaXR5ICogMC4yNQAAChgAbWluZWNyYWZ0OnN3aW5nX2R1cmF0aW9uBQUAdmFsdWUzM3M\/AAoWAG1pbmVjcmFmdDpzd2luZ19zb3VuZHMICgBhdHRhY2tfaGl0GgBpdGVtLmlyb25fc3BlYXIuYXR0YWNrX2hpdAgLAGF0dGFja19taXNzGwBpdGVtLmlyb25fc3BlYXIuYXR0YWNrX21pc3MACg4AbWluZWNyYWZ0OnRhZ3MJBAB0YWdzCAIAAAATAG1pbmVjcmFmdDppcm9uX3RpZXISAG1pbmVjcmFmdDppc19zcGVhcgAKFwBtaW5lY3JhZnQ6dXNlX21vZGlmaWVycwEPAGVtaXRfdmlicmF0aW9ucwAFEQBtb3ZlbWVudF9tb2RpZmllcgAAgD8ICwBzdGFydF9zb3VuZBMAaXRlbS5pcm9uX3NwZWFyLnVzZQgLAHN0YXJ0X3VzaW5nBgBhbHdheXMFDAB1c2VfZHVyYXRpb24AoIxHAAAA"
@@ -5033,7 +4853,7 @@
         "version": 2
     },
     "minecraft:jungle_chest_boat": {
-        "runtime_id": 655,
+        "runtime_id": 653,
         "component_based": false,
         "version": 2
     },
@@ -5223,12 +5043,12 @@
         "version": 2
     },
     "minecraft:leaves": {
-        "runtime_id": 808,
+        "runtime_id": 806,
         "component_based": false,
         "version": 2
     },
     "minecraft:leaves2": {
-        "runtime_id": 809,
+        "runtime_id": 807,
         "component_based": false,
         "version": 2
     },
@@ -5243,7 +5063,7 @@
         "version": 2
     },
     "minecraft:light_block": {
-        "runtime_id": 844,
+        "runtime_id": 842,
         "component_based": false,
         "version": 2
     },
@@ -5328,7 +5148,7 @@
         "version": 2
     },
     "minecraft:light_blue_bundle": {
-        "runtime_id": 868,
+        "runtime_id": 864,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sbAGJ1bmRsZV9saWdodF9ibHVlX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250HABidW5kbGVfbGlnaHRfYmx1ZV9vcGVuX2Zyb250CAcAZGVmYXVsdBEAYnVuZGxlX2xpZ2h0X2JsdWUAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -5353,28 +5173,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:light_blue_concrete_double_slab": {
-        "runtime_id": -1242,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:light_blue_concrete_powder": {
         "runtime_id": -711,
         "component_based": false,
         "version": 2
     },
-    "minecraft:light_blue_concrete_slab": {
-        "runtime_id": -1226,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:light_blue_concrete_stairs": {
-        "runtime_id": -1204,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:light_blue_cushion": {
-        "runtime_id": 781,
+        "runtime_id": 779,
         "component_based": false,
         "version": 2
     },
@@ -5389,7 +5194,7 @@
         "version": 2
     },
     "minecraft:light_blue_harness": {
-        "runtime_id": 738,
+        "runtime_id": 736,
         "component_based": false,
         "version": 2
     },
@@ -5418,23 +5223,8 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:light_blue_wool_double_slab": {
-        "runtime_id": -1192,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:light_blue_wool_slab": {
-        "runtime_id": -1176,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:light_blue_wool_stairs": {
-        "runtime_id": -1154,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:light_gray_bundle": {
-        "runtime_id": 869,
+        "runtime_id": 865,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sbAGJ1bmRsZV9saWdodF9ncmF5X29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250HABidW5kbGVfbGlnaHRfZ3JheV9vcGVuX2Zyb250CAcAZGVmYXVsdBEAYnVuZGxlX2xpZ2h0X2dyYXkAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -5459,28 +5249,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:light_gray_concrete_double_slab": {
-        "runtime_id": -1232,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:light_gray_concrete_powder": {
         "runtime_id": -716,
         "component_based": false,
         "version": 2
     },
-    "minecraft:light_gray_concrete_slab": {
-        "runtime_id": -1216,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:light_gray_concrete_stairs": {
-        "runtime_id": -1209,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:light_gray_cushion": {
-        "runtime_id": 782,
+        "runtime_id": 780,
         "component_based": false,
         "version": 2
     },
@@ -5490,7 +5265,7 @@
         "version": 2
     },
     "minecraft:light_gray_harness": {
-        "runtime_id": 739,
+        "runtime_id": 737,
         "component_based": false,
         "version": 2
     },
@@ -5519,21 +5294,6 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:light_gray_wool_double_slab": {
-        "runtime_id": -1182,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:light_gray_wool_slab": {
-        "runtime_id": -1166,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:light_gray_wool_stairs": {
-        "runtime_id": -1159,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:light_weighted_pressure_plate": {
         "runtime_id": 147,
         "component_based": false,
@@ -5555,7 +5315,7 @@
         "version": 2
     },
     "minecraft:lime_bundle": {
-        "runtime_id": 870,
+        "runtime_id": 866,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sVAGJ1bmRsZV9saW1lX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250FgBidW5kbGVfbGltZV9vcGVuX2Zyb250CAcAZGVmYXVsdAsAYnVuZGxlX2xpbWUAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -5580,28 +5340,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:lime_concrete_double_slab": {
-        "runtime_id": -1239,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:lime_concrete_powder": {
         "runtime_id": -713,
         "component_based": false,
         "version": 2
     },
-    "minecraft:lime_concrete_slab": {
-        "runtime_id": -1223,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:lime_concrete_stairs": {
-        "runtime_id": -1206,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:lime_cushion": {
-        "runtime_id": 783,
+        "runtime_id": 781,
         "component_based": false,
         "version": 2
     },
@@ -5616,7 +5361,7 @@
         "version": 2
     },
     "minecraft:lime_harness": {
-        "runtime_id": 740,
+        "runtime_id": 738,
         "component_based": false,
         "version": 2
     },
@@ -5642,21 +5387,6 @@
     },
     "minecraft:lime_wool": {
         "runtime_id": -559,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:lime_wool_double_slab": {
-        "runtime_id": -1189,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:lime_wool_slab": {
-        "runtime_id": -1173,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:lime_wool_stairs": {
-        "runtime_id": -1156,
         "component_based": false,
         "version": 2
     },
@@ -5711,17 +5441,17 @@
         "version": 2
     },
     "minecraft:lodestone_compass": {
-        "runtime_id": 618,
+        "runtime_id": 616,
         "component_based": false,
         "version": 2
     },
     "minecraft:log": {
-        "runtime_id": 793,
+        "runtime_id": 791,
         "component_based": false,
         "version": 2
     },
     "minecraft:log2": {
-        "runtime_id": 822,
+        "runtime_id": 820,
         "component_based": false,
         "version": 2
     },
@@ -5736,7 +5466,7 @@
         "version": 2
     },
     "minecraft:magenta_bundle": {
-        "runtime_id": 871,
+        "runtime_id": 867,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sYAGJ1bmRsZV9tYWdlbnRhX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250GQBidW5kbGVfbWFnZW50YV9vcGVuX2Zyb250CAcAZGVmYXVsdA4AYnVuZGxlX21hZ2VudGEAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -5761,28 +5491,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:magenta_concrete_double_slab": {
-        "runtime_id": -1245,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:magenta_concrete_powder": {
         "runtime_id": -710,
         "component_based": false,
         "version": 2
     },
-    "minecraft:magenta_concrete_slab": {
-        "runtime_id": -1229,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:magenta_concrete_stairs": {
-        "runtime_id": -1203,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:magenta_cushion": {
-        "runtime_id": 784,
+        "runtime_id": 782,
         "component_based": false,
         "version": 2
     },
@@ -5797,7 +5512,7 @@
         "version": 2
     },
     "minecraft:magenta_harness": {
-        "runtime_id": 741,
+        "runtime_id": 739,
         "component_based": false,
         "version": 2
     },
@@ -5826,21 +5541,6 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:magenta_wool_double_slab": {
-        "runtime_id": -1195,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:magenta_wool_slab": {
-        "runtime_id": -1179,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:magenta_wool_stairs": {
-        "runtime_id": -1153,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:magma": {
         "runtime_id": 213,
         "component_based": false,
@@ -5857,7 +5557,7 @@
         "version": 2
     },
     "minecraft:mangrove_boat": {
-        "runtime_id": 650,
+        "runtime_id": 648,
         "component_based": false,
         "version": 2
     },
@@ -5867,12 +5567,12 @@
         "version": 2
     },
     "minecraft:mangrove_chest_boat": {
-        "runtime_id": 659,
+        "runtime_id": 657,
         "component_based": false,
         "version": 2
     },
     "minecraft:mangrove_door": {
-        "runtime_id": 648,
+        "runtime_id": 646,
         "component_based": false,
         "version": 2
     },
@@ -5932,7 +5632,7 @@
         "version": 2
     },
     "minecraft:mangrove_sign": {
-        "runtime_id": 649,
+        "runtime_id": 647,
         "component_based": false,
         "version": 2
     },
@@ -5972,7 +5672,7 @@
         "version": 2
     },
     "minecraft:medicine": {
-        "runtime_id": 615,
+        "runtime_id": 613,
         "component_based": false,
         "version": 2
     },
@@ -6014,7 +5714,7 @@
         "version": 2
     },
     "minecraft:miner_pottery_sherd": {
-        "runtime_id": 686,
+        "runtime_id": 684,
         "component_based": false,
         "version": 2
     },
@@ -6029,7 +5729,7 @@
         "version": 2
     },
     "minecraft:monster_egg": {
-        "runtime_id": 824,
+        "runtime_id": 822,
         "component_based": false,
         "version": 2
     },
@@ -6099,7 +5799,7 @@
         "version": 2
     },
     "minecraft:mourner_pottery_sherd": {
-        "runtime_id": 687,
+        "runtime_id": 685,
         "component_based": false,
         "version": 2
     },
@@ -6170,7 +5870,7 @@
         "version": 2
     },
     "minecraft:music_disc_5": {
-        "runtime_id": 651,
+        "runtime_id": 649,
         "component_based": true,
         "version": 2
     },
@@ -6180,7 +5880,7 @@
         "version": 2
     },
     "minecraft:music_disc_bounce": {
-        "runtime_id": 837,
+        "runtime_id": 835,
         "component_based": true,
         "version": 2
     },
@@ -6195,12 +5895,12 @@
         "version": 2
     },
     "minecraft:music_disc_creator": {
-        "runtime_id": 832,
+        "runtime_id": 830,
         "component_based": true,
         "version": 2
     },
     "minecraft:music_disc_creator_music_box": {
-        "runtime_id": 833,
+        "runtime_id": 831,
         "component_based": true,
         "version": 2
     },
@@ -6210,7 +5910,7 @@
         "version": 2
     },
     "minecraft:music_disc_lava_chicken": {
-        "runtime_id": 836,
+        "runtime_id": 834,
         "component_based": true,
         "version": 2
     },
@@ -6225,22 +5925,22 @@
         "version": 2
     },
     "minecraft:music_disc_otherside": {
-        "runtime_id": 641,
+        "runtime_id": 639,
         "component_based": true,
         "version": 2
     },
     "minecraft:music_disc_pigstep": {
-        "runtime_id": 635,
+        "runtime_id": 633,
         "component_based": true,
         "version": 2
     },
     "minecraft:music_disc_precipice": {
-        "runtime_id": 834,
+        "runtime_id": 832,
         "component_based": true,
         "version": 2
     },
     "minecraft:music_disc_relic": {
-        "runtime_id": 715,
+        "runtime_id": 713,
         "component_based": true,
         "version": 2
     },
@@ -6255,7 +5955,7 @@
         "version": 2
     },
     "minecraft:music_disc_tears": {
-        "runtime_id": 835,
+        "runtime_id": 833,
         "component_based": true,
         "version": 2
     },
@@ -6291,7 +5991,7 @@
         "version": 2
     },
     "minecraft:nautilus_spawn_egg": {
-        "runtime_id": 760,
+        "runtime_id": 758,
         "component_based": false,
         "version": 2
     },
@@ -6331,7 +6031,7 @@
         "version": 2
     },
     "minecraft:nether_sprouts": {
-        "runtime_id": 636,
+        "runtime_id": 634,
         "component_based": true,
         "version": 2
     },
@@ -6357,7 +6057,7 @@
         "version": 2
     },
     "minecraft:netherite_axe": {
-        "runtime_id": 622,
+        "runtime_id": 620,
         "component_based": false,
         "version": 2
     },
@@ -6367,73 +6067,73 @@
         "version": 2
     },
     "minecraft:netherite_boots": {
-        "runtime_id": 628,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:netherite_chestplate": {
         "runtime_id": 626,
         "component_based": false,
         "version": 2
     },
-    "minecraft:netherite_helmet": {
-        "runtime_id": 625,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:netherite_hoe": {
-        "runtime_id": 623,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:netherite_horse_armor": {
-        "runtime_id": 768,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:netherite_ingot": {
+    "minecraft:netherite_chestplate": {
         "runtime_id": 624,
         "component_based": false,
         "version": 2
     },
-    "minecraft:netherite_leggings": {
-        "runtime_id": 627,
+    "minecraft:netherite_helmet": {
+        "runtime_id": 623,
         "component_based": false,
         "version": 2
     },
-    "minecraft:netherite_nautilus_armor": {
-        "runtime_id": 767,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:netherite_pickaxe": {
+    "minecraft:netherite_hoe": {
         "runtime_id": 621,
         "component_based": false,
         "version": 2
     },
+    "minecraft:netherite_horse_armor": {
+        "runtime_id": 766,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:netherite_ingot": {
+        "runtime_id": 622,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:netherite_leggings": {
+        "runtime_id": 625,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:netherite_nautilus_armor": {
+        "runtime_id": 765,
+        "component_based": false,
+        "version": 2
+    },
+    "minecraft:netherite_pickaxe": {
+        "runtime_id": 619,
+        "component_based": false,
+        "version": 2
+    },
     "minecraft:netherite_scrap": {
-        "runtime_id": 629,
+        "runtime_id": 627,
         "component_based": false,
         "version": 2
     },
     "minecraft:netherite_shovel": {
-        "runtime_id": 620,
+        "runtime_id": 618,
         "component_based": false,
         "version": 2
     },
     "minecraft:netherite_spear": {
-        "runtime_id": 858,
+        "runtime_id": 854,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UFAAAACBAAZW5jaGFudGFibGVfc2xvdAsAbWVsZWVfc3BlYXIDEQBlbmNoYW50YWJsZV92YWx1ZQ8AAAABBABmb2lsAAMLAGZyYW1lX2NvdW50AQAAAAENAGhhbmRfZXF1aXBwZWQBARIAaGlkZGVuX2luX2NvbW1hbmRzAgEOAGxpcXVpZF9jbGlwcGVkAAMOAG1heF9zdGFja19zaXplAQAAAAoOAG1pbmVjcmFmdDppY29uCggAdGV4dHVyZXMIBwBkZWZhdWx0DwBuZXRoZXJpdGVfc3BlYXIAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24A+RUAAAkJAGl0ZW1fdGFncwgCAAAAGABtaW5lY3JhZnQ6bmV0aGVyaXRlX3RpZXISAG1pbmVjcmFmdDppc19zcGVhcgoSAG1pbmVjcmFmdDpjb29sZG93bggIAGNhdGVnb3J5BQBzcGVhcgUIAGR1cmF0aW9uMzOTPwgEAHR5cGUGAGF0dGFjawAKEABtaW5lY3JhZnQ6ZGFtYWdlAgUAdmFsdWUFAAAKFgBtaW5lY3JhZnQ6ZGlzcGxheV9uYW1lCAUAdmFsdWUZAGl0ZW0ubmV0aGVyaXRlX3NwZWFyLm5hbWUAChQAbWluZWNyYWZ0OmR1cmFiaWxpdHkKDQBkYW1hZ2VfY2hhbmNlAwMAbWF4ZAAAAAMDAG1pbgAAAAAAAw4AbWF4X2R1cmFiaWxpdHnuBwAAAAoVAG1pbmVjcmFmdDplbmNoYW50YWJsZQgEAHNsb3QLAG1lbGVlX3NwZWFyAQUAdmFsdWUPAAoYAG1pbmVjcmFmdDpmaXJlX3Jlc2lzdGFudAEFAHZhbHVlAQAKFwBtaW5lY3JhZnQ6aGFuZF9lcXVpcHBlZAEFAHZhbHVlAQAKGABtaW5lY3JhZnQ6a2luZXRpY193ZWFwb24KGABtaW5lY3JhZnQ6a2luZXRpY193ZWFwb24KDgBjcmVhdGl2ZV9yZWFjaAUDAG1heAAA8EAFAwBtaW4AAABAAAoRAGRhbWFnZV9jb25kaXRpb25zAgwAbWF4X2R1cmF0aW9urwAFEgBtaW5fcmVsYXRpdmVfc3BlZWQzM5NABQkAbWluX3NwZWVkAAAAAAAFDwBkYW1hZ2VfbW9kaWZpZXIAAAAABREAZGFtYWdlX211bHRpcGxpZXKamZk\/AgUAZGVsYXkIAAoTAGRpc21vdW50X2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb24yAAUSAG1pbl9yZWxhdGl2ZV9zcGVlZAAAAAAFCQBtaW5fc3BlZWQAABBBAAUNAGhpdGJveF9tYXJnaW4AAIA+ChQAa25vY2tiYWNrX2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb25uAAUSAG1pbl9yZWxhdGl2ZV9zcGVlZAAAAAAFCQBtaW5fc3BlZWQzM6NAAAoFAHJlYWNoBQMAbWF4AACQQAUDAG1pbgAAAEAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChkAbWluZWNyYWZ0OnBpZXJjaW5nX3dlYXBvbgoOAGNyZWF0aXZlX3JlYWNoBQMAbWF4AADwQAUDAG1pbgAAAEAABQ0AaGl0Ym94X21hcmdpbgAAgD4KBQByZWFjaAUDAG1heAAAkEAFAwBtaW4AAABAAAAKFABtaW5lY3JhZnQ6cmVwYWlyYWJsZQkMAHJlcGFpcl9pdGVtcwoCAAAACQUAaXRlbXMKAQAAAAgEAG5hbWUZAG1pbmVjcmFmdDpuZXRoZXJpdGVfc3BlYXIACA0AcmVwYWlyX2Ftb3VudCkAY29udGV4dC5vdGhlci0+cXVlcnkucmVtYWluaW5nX2R1cmFiaWxpdHkACQUAaXRlbXMKAQAAAAgEAG5hbWUZAG1pbmVjcmFmdDpuZXRoZXJpdGVfaW5nb3QACA0AcmVwYWlyX2Ftb3VudBsAcXVlcnkubWF4X2R1cmFiaWxpdHkgKiAwLjI1AAAKGABtaW5lY3JhZnQ6c3dpbmdfZHVyYXRpb24FBQB2YWx1ZTMzkz8AChYAbWluZWNyYWZ0OnN3aW5nX3NvdW5kcwgKAGF0dGFja19oaXQfAGl0ZW0ubmV0aGVyaXRlX3NwZWFyLmF0dGFja19oaXQICwBhdHRhY2tfbWlzcyAAaXRlbS5uZXRoZXJpdGVfc3BlYXIuYXR0YWNrX21pc3MACg4AbWluZWNyYWZ0OnRhZ3MJBAB0YWdzCAIAAAAYAG1pbmVjcmFmdDpuZXRoZXJpdGVfdGllchIAbWluZWNyYWZ0OmlzX3NwZWFyAAoXAG1pbmVjcmFmdDp1c2VfbW9kaWZpZXJzAQ8AZW1pdF92aWJyYXRpb25zAAURAG1vdmVtZW50X21vZGlmaWVyAACAPwgLAHN0YXJ0X3NvdW5kGABpdGVtLm5ldGhlcml0ZV9zcGVhci51c2UICwBzdGFydF91c2luZwYAYWx3YXlzBQwAdXNlX2R1cmF0aW9uAKCMRwAAAA=="
     },
     "minecraft:netherite_sword": {
-        "runtime_id": 619,
+        "runtime_id": 617,
         "component_based": false,
         "version": 2
     },
     "minecraft:netherite_upgrade_smithing_template": {
-        "runtime_id": 696,
+        "runtime_id": 694,
         "component_based": false,
         "version": 2
     },
@@ -6478,7 +6178,7 @@
         "version": 2
     },
     "minecraft:oak_chest_boat": {
-        "runtime_id": 653,
+        "runtime_id": 651,
         "component_based": false,
         "version": 2
     },
@@ -6568,7 +6268,7 @@
         "version": 2
     },
     "minecraft:ominous_trial_key": {
-        "runtime_id": 879,
+        "runtime_id": 875,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5BAAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemVAAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgHAGRlZmF1bHQRAG9taW5vdXNfdHJpYWxfa2V5AAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAAAAAAAJCQBpdGVtX3RhZ3MAAAAAAAoWAG1pbmVjcmFmdDpkaXNwbGF5X25hbWUIBQB2YWx1ZRsAaXRlbS5vbWlub3VzX3RyaWFsX2tleS5uYW1lAAAA"
@@ -6579,7 +6279,7 @@
         "version": 2
     },
     "minecraft:orange_bundle": {
-        "runtime_id": 872,
+        "runtime_id": 868,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sXAGJ1bmRsZV9vcmFuZ2Vfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQYAGJ1bmRsZV9vcmFuZ2Vfb3Blbl9mcm9udAgHAGRlZmF1bHQNAGJ1bmRsZV9vcmFuZ2UAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -6604,28 +6304,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:orange_concrete_double_slab": {
-        "runtime_id": -1237,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:orange_concrete_powder": {
         "runtime_id": -709,
         "component_based": false,
         "version": 2
     },
-    "minecraft:orange_concrete_slab": {
-        "runtime_id": -1221,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:orange_concrete_stairs": {
-        "runtime_id": -1202,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:orange_cushion": {
-        "runtime_id": 785,
+        "runtime_id": 783,
         "component_based": false,
         "version": 2
     },
@@ -6640,7 +6325,7 @@
         "version": 2
     },
     "minecraft:orange_harness": {
-        "runtime_id": 742,
+        "runtime_id": 740,
         "component_based": false,
         "version": 2
     },
@@ -6676,21 +6361,6 @@
     },
     "minecraft:orange_wool": {
         "runtime_id": -557,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:orange_wool_double_slab": {
-        "runtime_id": -1187,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:orange_wool_slab": {
-        "runtime_id": -1171,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:orange_wool_stairs": {
-        "runtime_id": -1152,
         "component_based": false,
         "version": 2
     },
@@ -6810,7 +6480,7 @@
         "version": 2
     },
     "minecraft:pale_oak_boat": {
-        "runtime_id": 724,
+        "runtime_id": 722,
         "component_based": false,
         "version": 2
     },
@@ -6820,7 +6490,7 @@
         "version": 2
     },
     "minecraft:pale_oak_chest_boat": {
-        "runtime_id": 725,
+        "runtime_id": 723,
         "component_based": false,
         "version": 2
     },
@@ -6880,7 +6550,7 @@
         "version": 2
     },
     "minecraft:pale_oak_sign": {
-        "runtime_id": 726,
+        "runtime_id": 724,
         "component_based": false,
         "version": 2
     },
@@ -6925,7 +6595,7 @@
         "version": 2
     },
     "minecraft:parched_spawn_egg": {
-        "runtime_id": 762,
+        "runtime_id": 760,
         "component_based": false,
         "version": 2
     },
@@ -6964,11 +6634,6 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:photo_item": {
-        "runtime_id": 607,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:pig_spawn_egg": {
         "runtime_id": 441,
         "component_based": false,
@@ -7000,7 +6665,7 @@
         "version": 2
     },
     "minecraft:pink_bundle": {
-        "runtime_id": 873,
+        "runtime_id": 869,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sVAGJ1bmRsZV9waW5rX29wZW5fYmFjawgRAGJ1bmRsZV9vcGVuX2Zyb250FgBidW5kbGVfcGlua19vcGVuX2Zyb250CAcAZGVmYXVsdAsAYnVuZGxlX3BpbmsAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -7025,28 +6690,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:pink_concrete_double_slab": {
-        "runtime_id": -1246,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:pink_concrete_powder": {
         "runtime_id": -714,
         "component_based": false,
         "version": 2
     },
-    "minecraft:pink_concrete_slab": {
-        "runtime_id": -1230,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:pink_concrete_stairs": {
-        "runtime_id": -1207,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:pink_cushion": {
-        "runtime_id": 786,
+        "runtime_id": 784,
         "component_based": false,
         "version": 2
     },
@@ -7061,7 +6711,7 @@
         "version": 2
     },
     "minecraft:pink_harness": {
-        "runtime_id": 743,
+        "runtime_id": 741,
         "component_based": false,
         "version": 2
     },
@@ -7100,21 +6750,6 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:pink_wool_double_slab": {
-        "runtime_id": -1196,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:pink_wool_slab": {
-        "runtime_id": -1180,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:pink_wool_stairs": {
-        "runtime_id": -1157,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:piston": {
         "runtime_id": 33,
         "component_based": false,
@@ -7142,7 +6777,7 @@
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoOAG1pbmVjcmFmdDpzZWVkCAsAY3JvcF9yZXN1bHQWAG1pbmVjcmFmdDpwaXRjaGVyX2Nyb3AJCABwbGFudF9hdAgBAAAAEgBtaW5lY3JhZnQ6ZmFybWxhbmQBGgBwbGFudF9hdF9hbnlfc29saWRfc3VyZmFjZQAIDQBwbGFudF9hdF9mYWNlAgB1cAAAAA=="
     },
     "minecraft:planks": {
-        "runtime_id": 816,
+        "runtime_id": 814,
         "component_based": false,
         "version": 2
     },
@@ -7152,7 +6787,7 @@
         "version": 2
     },
     "minecraft:plenty_pottery_sherd": {
-        "runtime_id": 688,
+        "runtime_id": 686,
         "component_based": false,
         "version": 2
     },
@@ -7403,7 +7038,7 @@
         "version": 2
     },
     "minecraft:poplar_boat": {
-        "runtime_id": 771,
+        "runtime_id": 769,
         "component_based": false,
         "version": 2
     },
@@ -7413,7 +7048,7 @@
         "version": 2
     },
     "minecraft:poplar_chest_boat": {
-        "runtime_id": 772,
+        "runtime_id": 770,
         "component_based": false,
         "version": 2
     },
@@ -7468,7 +7103,7 @@
         "version": 2
     },
     "minecraft:poplar_sign": {
-        "runtime_id": 773,
+        "runtime_id": 771,
         "component_based": false,
         "version": 2
     },
@@ -7520,11 +7155,6 @@
     },
     "minecraft:portal": {
         "runtime_id": 90,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:portfolio": {
-        "runtime_id": 608,
         "component_based": false,
         "version": 2
     },
@@ -7625,7 +7255,7 @@
         "version": 2
     },
     "minecraft:prize_pottery_sherd": {
-        "runtime_id": 689,
+        "runtime_id": 687,
         "component_based": false,
         "version": 2
     },
@@ -7668,7 +7298,7 @@
         "version": 2
     },
     "minecraft:purple_bundle": {
-        "runtime_id": 874,
+        "runtime_id": 870,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sXAGJ1bmRsZV9wdXJwbGVfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQYAGJ1bmRsZV9wdXJwbGVfb3Blbl9mcm9udAgHAGRlZmF1bHQNAGJ1bmRsZV9wdXJwbGUAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -7693,28 +7323,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:purple_concrete_double_slab": {
-        "runtime_id": -1244,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:purple_concrete_powder": {
         "runtime_id": -718,
         "component_based": false,
         "version": 2
     },
-    "minecraft:purple_concrete_slab": {
-        "runtime_id": -1228,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:purple_concrete_stairs": {
-        "runtime_id": -1211,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:purple_cushion": {
-        "runtime_id": 787,
+        "runtime_id": 785,
         "component_based": false,
         "version": 2
     },
@@ -7729,7 +7344,7 @@
         "version": 2
     },
     "minecraft:purple_harness": {
-        "runtime_id": 744,
+        "runtime_id": 742,
         "component_based": false,
         "version": 2
     },
@@ -7755,21 +7370,6 @@
     },
     "minecraft:purple_wool": {
         "runtime_id": -564,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:purple_wool_double_slab": {
-        "runtime_id": -1194,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:purple_wool_slab": {
-        "runtime_id": -1178,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:purple_wool_stairs": {
-        "runtime_id": -1161,
         "component_based": false,
         "version": 2
     },
@@ -7871,12 +7471,12 @@
         "version": 2
     },
     "minecraft:raiser_armor_trim_smithing_template": {
-        "runtime_id": 710,
+        "runtime_id": 708,
         "component_based": false,
         "version": 2
     },
     "minecraft:rapid_fertilizer": {
-        "runtime_id": 613,
+        "runtime_id": 611,
         "component_based": false,
         "version": 2
     },
@@ -7916,12 +7516,12 @@
         "version": 2
     },
     "minecraft:recovery_compass": {
-        "runtime_id": 661,
+        "runtime_id": 659,
         "component_based": false,
         "version": 2
     },
     "minecraft:red_bundle": {
-        "runtime_id": 875,
+        "runtime_id": 871,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sUAGJ1bmRsZV9yZWRfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQVAGJ1bmRsZV9yZWRfb3Blbl9mcm9udAgHAGRlZmF1bHQKAGJ1bmRsZV9yZWQAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -7946,28 +7546,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:red_concrete_double_slab": {
-        "runtime_id": -1236,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:red_concrete_powder": {
         "runtime_id": -722,
         "component_based": false,
         "version": 2
     },
-    "minecraft:red_concrete_slab": {
-        "runtime_id": -1220,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:red_concrete_stairs": {
-        "runtime_id": -1199,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:red_cushion": {
-        "runtime_id": 788,
+        "runtime_id": 786,
         "component_based": false,
         "version": 2
     },
@@ -7977,7 +7562,7 @@
         "version": 2
     },
     "minecraft:red_flower": {
-        "runtime_id": 813,
+        "runtime_id": 811,
         "component_based": false,
         "version": 2
     },
@@ -7987,7 +7572,7 @@
         "version": 2
     },
     "minecraft:red_harness": {
-        "runtime_id": 745,
+        "runtime_id": 743,
         "component_based": false,
         "version": 2
     },
@@ -8061,12 +7646,6 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:red_shrub": {
-        "runtime_id": 852,
-        "component_based": true,
-        "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AgAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemVAAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgHAGRlZmF1bHQJAHJlZF9zaHJ1YgAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKFgBtaW5lY3JhZnQ6YmxvY2tfcGxhY2VyARAAYWxpZ25lZFBsYWNlbWVudAAIBQBibG9jaxMAbWluZWNyYWZ0OnJlZF9zaHJ1YgERAGNhblVzZUJsb2NrQXNJY29uAQEQAHJlcGxhY2VCbG9ja0l0ZW0BCQYAdXNlX29uAAAAAAAAChUAbWluZWNyYWZ0OmNvbXBvc3RhYmxlAREAY29tcG9zdGluZ19jaGFuY2UeAAoWAG1pbmVjcmFmdDpkaXNwbGF5X25hbWUIBQB2YWx1ZRMAdGlsZS5yZWRfc2hydWIubmFtZQAKHQBtaW5lY3JhZnQ6cHVibGlzaGVyX29uX3VzZV9vbgETAGF1dG9TdWNjZWVkT25DbGllbnQAAAAA"
-    },
     "minecraft:red_shulker_box": {
         "runtime_id": -626,
         "component_based": false,
@@ -8094,21 +7673,6 @@
     },
     "minecraft:red_wool": {
         "runtime_id": -556,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:red_wool_double_slab": {
-        "runtime_id": -1186,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:red_wool_slab": {
-        "runtime_id": -1170,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:red_wool_stairs": {
-        "runtime_id": -1149,
         "component_based": false,
         "version": 2
     },
@@ -8168,7 +7732,7 @@
         "version": 2
     },
     "minecraft:resin_brick": {
-        "runtime_id": 728,
+        "runtime_id": 726,
         "component_based": false,
         "version": 2
     },
@@ -8208,7 +7772,7 @@
         "version": 2
     },
     "minecraft:rib_armor_trim_smithing_template": {
-        "runtime_id": 706,
+        "runtime_id": 704,
         "component_based": false,
         "version": 2
     },
@@ -8275,7 +7839,7 @@
         "version": 2
     },
     "minecraft:sapling": {
-        "runtime_id": 807,
+        "runtime_id": 805,
         "component_based": false,
         "version": 2
     },
@@ -8285,7 +7849,7 @@
         "version": 2
     },
     "minecraft:scrape_pottery_sherd": {
-        "runtime_id": 690,
+        "runtime_id": 688,
         "component_based": false,
         "version": 2
     },
@@ -8330,17 +7894,17 @@
         "version": 2
     },
     "minecraft:sentry_armor_trim_smithing_template": {
-        "runtime_id": 697,
+        "runtime_id": 695,
         "component_based": false,
         "version": 2
     },
     "minecraft:shaper_armor_trim_smithing_template": {
-        "runtime_id": 711,
+        "runtime_id": 709,
         "component_based": false,
         "version": 2
     },
     "minecraft:sheaf_pottery_sherd": {
-        "runtime_id": 691,
+        "runtime_id": 689,
         "component_based": false,
         "version": 2
     },
@@ -8354,14 +7918,8 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:shelf_mushroom": {
-        "runtime_id": 853,
-        "component_based": true,
-        "version": 1,
-        "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AgAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemVAAAAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzCAEAAAAcAG1pbmVjcmFmdDptdXNocm9vbXNfZm9yX3N0ZXcKFgBtaW5lY3JhZnQ6YmxvY2tfcGxhY2VyARAAYWxpZ25lZFBsYWNlbWVudAAIBQBibG9jaxgAbWluZWNyYWZ0OnNoZWxmX211c2hyb29tAREAY2FuVXNlQmxvY2tBc0ljb24BARAAcmVwbGFjZUJsb2NrSXRlbQEJBgB1c2Vfb24AAAAAAAAKFQBtaW5lY3JhZnQ6Y29tcG9zdGFibGUBEQBjb21wb3N0aW5nX2NoYW5jZUEAChYAbWluZWNyYWZ0OmRpc3BsYXlfbmFtZQgFAHZhbHVlGAB0aWxlLnNoZWxmX211c2hyb29tLm5hbWUACh0AbWluZWNyYWZ0OnB1Ymxpc2hlcl9vbl91c2Vfb24BEwBhdXRvU3VjY2VlZE9uQ2xpZW50AAAKDgBtaW5lY3JhZnQ6dGFncwkEAHRhZ3MIAQAAABwAbWluZWNyYWZ0Om11c2hyb29tc19mb3Jfc3RldwAAAA=="
-    },
     "minecraft:shelter_pottery_sherd": {
-        "runtime_id": 692,
+        "runtime_id": 690,
         "component_based": false,
         "version": 2
     },
@@ -8386,7 +7944,7 @@
         "version": 2
     },
     "minecraft:shulker_box": {
-        "runtime_id": 830,
+        "runtime_id": 828,
         "component_based": false,
         "version": 2
     },
@@ -8401,7 +7959,7 @@
         "version": 2
     },
     "minecraft:silence_armor_trim_smithing_template": {
-        "runtime_id": 708,
+        "runtime_id": 706,
         "component_based": false,
         "version": 2
     },
@@ -8431,7 +7989,7 @@
         "version": 2
     },
     "minecraft:skull": {
-        "runtime_id": 718,
+        "runtime_id": 716,
         "component_based": false,
         "version": 2
     },
@@ -8441,7 +7999,7 @@
         "version": 2
     },
     "minecraft:skull_pottery_sherd": {
-        "runtime_id": 693,
+        "runtime_id": 691,
         "component_based": false,
         "version": 2
     },
@@ -8571,12 +8129,12 @@
         "version": 2
     },
     "minecraft:snort_pottery_sherd": {
-        "runtime_id": 694,
+        "runtime_id": 692,
         "component_based": false,
         "version": 2
     },
     "minecraft:snout_armor_trim_smithing_template": {
-        "runtime_id": 705,
+        "runtime_id": 703,
         "component_based": false,
         "version": 2
     },
@@ -8601,7 +8159,7 @@
         "version": 2
     },
     "minecraft:soul_campfire": {
-        "runtime_id": 637,
+        "runtime_id": 635,
         "component_based": true,
         "version": 2
     },
@@ -8631,12 +8189,12 @@
         "version": 2
     },
     "minecraft:sparkler": {
-        "runtime_id": 616,
+        "runtime_id": 614,
         "component_based": false,
         "version": 2
     },
     "minecraft:spawn_egg": {
-        "runtime_id": 850,
+        "runtime_id": 848,
         "component_based": false,
         "version": 2
     },
@@ -8652,7 +8210,7 @@
         "version": 2
     },
     "minecraft:spire_armor_trim_smithing_template": {
-        "runtime_id": 707,
+        "runtime_id": 705,
         "component_based": false,
         "version": 2
     },
@@ -8682,7 +8240,7 @@
         "version": 2
     },
     "minecraft:spruce_chest_boat": {
-        "runtime_id": 656,
+        "runtime_id": 654,
         "component_based": false,
         "version": 2
     },
@@ -8777,7 +8335,7 @@
         "version": 2
     },
     "minecraft:spyglass": {
-        "runtime_id": 640,
+        "runtime_id": 638,
         "component_based": false,
         "version": 2
     },
@@ -8787,17 +8345,17 @@
         "version": 2
     },
     "minecraft:stained_glass": {
-        "runtime_id": 828,
+        "runtime_id": 826,
         "component_based": false,
         "version": 2
     },
     "minecraft:stained_glass_pane": {
-        "runtime_id": 829,
+        "runtime_id": 827,
         "component_based": false,
         "version": 2
     },
     "minecraft:stained_hardened_clay": {
-        "runtime_id": 720,
+        "runtime_id": 718,
         "component_based": false,
         "version": 2
     },
@@ -8837,22 +8395,22 @@
         "version": 2
     },
     "minecraft:stone_block_slab": {
-        "runtime_id": 797,
+        "runtime_id": 795,
         "component_based": false,
         "version": 2
     },
     "minecraft:stone_block_slab2": {
-        "runtime_id": 798,
+        "runtime_id": 796,
         "component_based": false,
         "version": 2
     },
     "minecraft:stone_block_slab3": {
-        "runtime_id": 799,
+        "runtime_id": 797,
         "component_based": false,
         "version": 2
     },
     "minecraft:stone_block_slab4": {
-        "runtime_id": 800,
+        "runtime_id": 798,
         "component_based": false,
         "version": 2
     },
@@ -8907,7 +8465,7 @@
         "version": 2
     },
     "minecraft:stone_spear": {
-        "runtime_id": 859,
+        "runtime_id": 855,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UCAAAACBAAZW5jaGFudGFibGVfc2xvdAsAbWVsZWVfc3BlYXIDEQBlbmNoYW50YWJsZV92YWx1ZQUAAAABBABmb2lsAAMLAGZyYW1lX2NvdW50AQAAAAENAGhhbmRfZXF1aXBwZWQBARIAaGlkZGVuX2luX2NvbW1hbmRzAgEOAGxpcXVpZF9jbGlwcGVkAAMOAG1heF9zdGFja19zaXplAQAAAAoOAG1pbmVjcmFmdDppY29uCggAdGV4dHVyZXMIBwBkZWZhdWx0CwBzdG9uZV9zcGVhcgAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgD5FQAACQkAaXRlbV90YWdzCAIAAAAUAG1pbmVjcmFmdDpzdG9uZV90aWVyEgBtaW5lY3JhZnQ6aXNfc3BlYXIKEgBtaW5lY3JhZnQ6Y29vbGRvd24ICABjYXRlZ29yeQUAc3BlYXIFCABkdXJhdGlvbgAAQD8IBAB0eXBlBgBhdHRhY2sAChAAbWluZWNyYWZ0OmRhbWFnZQIFAHZhbHVlAgAAChYAbWluZWNyYWZ0OmRpc3BsYXlfbmFtZQgFAHZhbHVlFQBpdGVtLnN0b25lX3NwZWFyLm5hbWUAChQAbWluZWNyYWZ0OmR1cmFiaWxpdHkKDQBkYW1hZ2VfY2hhbmNlAwMAbWF4ZAAAAAMDAG1pbgAAAAAAAw4AbWF4X2R1cmFiaWxpdHmCAAAAAAoVAG1pbmVjcmFmdDplbmNoYW50YWJsZQgEAHNsb3QLAG1lbGVlX3NwZWFyAQUAdmFsdWUFAAoXAG1pbmVjcmFmdDpoYW5kX2VxdWlwcGVkAQUAdmFsdWUBAAoYAG1pbmVjcmFmdDpraW5ldGljX3dlYXBvbgoYAG1pbmVjcmFmdDpraW5ldGljX3dlYXBvbgoOAGNyZWF0aXZlX3JlYWNoBQMAbWF4AADwQAUDAG1pbgAAAEAAChEAZGFtYWdlX2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb24TAQUSAG1pbl9yZWxhdGl2ZV9zcGVlZDMzk0AFCQBtaW5fc3BlZWQAAAAAAAUPAGRhbWFnZV9tb2RpZmllcgAAAAAFEQBkYW1hZ2VfbXVsdGlwbGllcoXrUT8CBQBkZWxheQ4AChMAZGlzbW91bnRfY29uZGl0aW9ucwIMAG1heF9kdXJhdGlvbloABRIAbWluX3JlbGF0aXZlX3NwZWVkAAAAAAUJAG1pbl9zcGVlZAAAUEEABQ0AaGl0Ym94X21hcmdpbgAAgD4KFABrbm9ja2JhY2tfY29uZGl0aW9ucwIMAG1heF9kdXJhdGlvbrQABRIAbWluX3JlbGF0aXZlX3NwZWVkAAAAAAUJAG1pbl9zcGVlZDMzo0AACgUAcmVhY2gFAwBtYXgAAJBABQMAbWluAAAAQAAAAAoYAG1pbmVjcmFmdDptYXhfc3RhY2tfc2l6ZQEFAHZhbHVlAQAKGQBtaW5lY3JhZnQ6cGllcmNpbmdfd2VhcG9uCg4AY3JlYXRpdmVfcmVhY2gFAwBtYXgAAPBABQMAbWluAAAAQAAFDQBoaXRib3hfbWFyZ2luAACAPgoFAHJlYWNoBQMAbWF4AACQQAUDAG1pbgAAAEAAAAoUAG1pbmVjcmFmdDpyZXBhaXJhYmxlCQwAcmVwYWlyX2l0ZW1zCgIAAAAJBQBpdGVtcwoBAAAACAQAbmFtZRUAbWluZWNyYWZ0OnN0b25lX3NwZWFyAAgNAHJlcGFpcl9hbW91bnQpAGNvbnRleHQub3RoZXItPnF1ZXJ5LnJlbWFpbmluZ19kdXJhYmlsaXR5AAkFAGl0ZW1zCgEAAAAIBAB0YWdzLABxLmFsbF90YWdzKCdtaW5lY3JhZnQ6c3RvbmVfdG9vbF9tYXRlcmlhbHMnKQAIDQByZXBhaXJfYW1vdW50GwBxdWVyeS5tYXhfZHVyYWJpbGl0eSAqIDAuMjUAAAoYAG1pbmVjcmFmdDpzd2luZ19kdXJhdGlvbgUFAHZhbHVlAABAPwAKFgBtaW5lY3JhZnQ6c3dpbmdfc291bmRzCAoAYXR0YWNrX2hpdBsAaXRlbS5zdG9uZV9zcGVhci5hdHRhY2tfaGl0CAsAYXR0YWNrX21pc3McAGl0ZW0uc3RvbmVfc3BlYXIuYXR0YWNrX21pc3MACg4AbWluZWNyYWZ0OnRhZ3MJBAB0YWdzCAIAAAAUAG1pbmVjcmFmdDpzdG9uZV90aWVyEgBtaW5lY3JhZnQ6aXNfc3BlYXIAChcAbWluZWNyYWZ0OnVzZV9tb2RpZmllcnMBDwBlbWl0X3ZpYnJhdGlvbnMABREAbW92ZW1lbnRfbW9kaWZpZXIAAIA\/CAsAc3RhcnRfc291bmQUAGl0ZW0uc3RvbmVfc3BlYXIudXNlCAsAc3RhcnRfdXNpbmcGAGFsd2F5cwUMAHVzZV9kdXJhdGlvbgCgjEcAAAA="
@@ -8923,7 +8481,7 @@
         "version": 2
     },
     "minecraft:stonebrick": {
-        "runtime_id": 795,
+        "runtime_id": 793,
         "component_based": false,
         "version": 2
     },
@@ -8938,7 +8496,7 @@
         "version": 2
     },
     "minecraft:straw_bed": {
-        "runtime_id": 774,
+        "runtime_id": 772,
         "component_based": false,
         "version": 2
     },
@@ -9133,12 +8691,12 @@
         "version": 2
     },
     "minecraft:sulfur_cube_bucket": {
-        "runtime_id": 770,
+        "runtime_id": 768,
         "component_based": false,
         "version": 2
     },
     "minecraft:sulfur_cube_spawn_egg": {
-        "runtime_id": 769,
+        "runtime_id": 767,
         "component_based": false,
         "version": 2
     },
@@ -9200,12 +8758,12 @@
         "version": 2
     },
     "minecraft:tadpole_bucket": {
-        "runtime_id": 645,
+        "runtime_id": 643,
         "component_based": false,
         "version": 2
     },
     "minecraft:tadpole_spawn_egg": {
-        "runtime_id": 644,
+        "runtime_id": 642,
         "component_based": false,
         "version": 2
     },
@@ -9220,7 +8778,7 @@
         "version": 2
     },
     "minecraft:tallgrass": {
-        "runtime_id": 821,
+        "runtime_id": 819,
         "component_based": false,
         "version": 2
     },
@@ -9230,7 +8788,7 @@
         "version": 2
     },
     "minecraft:tide_armor_trim_smithing_template": {
-        "runtime_id": 704,
+        "runtime_id": 702,
         "component_based": false,
         "version": 2
     },
@@ -9276,7 +8834,7 @@
         "version": 2
     },
     "minecraft:trader_llama_spawn_egg": {
-        "runtime_id": 663,
+        "runtime_id": 661,
         "component_based": false,
         "version": 2
     },
@@ -9291,7 +8849,7 @@
         "version": 2
     },
     "minecraft:trial_key": {
-        "runtime_id": 880,
+        "runtime_id": 876,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5BAAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemVAAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgHAGRlZmF1bHQJAHRyaWFsX2tleQAABQwAbWluaW5nX3NwZWVkAACAPwEOAHNob3VsZF9kZXNwYXduAQEPAHN0YWNrZWRfYnlfZGF0YQADDQB1c2VfYW5pbWF0aW9uAAAAAAMMAHVzZV9kdXJhdGlvbgAAAAAACQkAaXRlbV90YWdzAAAAAAAKFgBtaW5lY3JhZnQ6ZGlzcGxheV9uYW1lCAUAdmFsdWUTAGl0ZW0udHJpYWxfa2V5Lm5hbWUAAAA="
@@ -9473,7 +9031,7 @@
         "version": 2
     },
     "minecraft:vex_armor_trim_smithing_template": {
-        "runtime_id": 703,
+        "runtime_id": 701,
         "component_based": false,
         "version": 2
     },
@@ -9513,12 +9071,12 @@
         "version": 2
     },
     "minecraft:ward_armor_trim_smithing_template": {
-        "runtime_id": 701,
+        "runtime_id": 699,
         "component_based": false,
         "version": 2
     },
     "minecraft:warden_spawn_egg": {
-        "runtime_id": 647,
+        "runtime_id": 645,
         "component_based": false,
         "version": 2
     },
@@ -9528,7 +9086,7 @@
         "version": 2
     },
     "minecraft:warped_door": {
-        "runtime_id": 633,
+        "runtime_id": 631,
         "component_based": false,
         "version": 2
     },
@@ -9553,7 +9111,7 @@
         "version": 2
     },
     "minecraft:warped_fungus_on_a_stick": {
-        "runtime_id": 634,
+        "runtime_id": 632,
         "component_based": true,
         "version": 2
     },
@@ -9593,7 +9151,7 @@
         "version": 2
     },
     "minecraft:warped_sign": {
-        "runtime_id": 631,
+        "runtime_id": 629,
         "component_based": false,
         "version": 2
     },
@@ -9968,7 +9526,7 @@
         "version": 2
     },
     "minecraft:wayfinder_armor_trim_smithing_template": {
-        "runtime_id": 709,
+        "runtime_id": 707,
         "component_based": false,
         "version": 2
     },
@@ -10079,7 +9637,7 @@
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoOAG1pbmVjcmFmdDpzZWVkCAsAY3JvcF9yZXN1bHQPAG1pbmVjcmFmdDp3aGVhdAkIAHBsYW50X2F0CAEAAAASAG1pbmVjcmFmdDpmYXJtbGFuZAEaAHBsYW50X2F0X2FueV9zb2xpZF9zdXJmYWNlAAgNAHBsYW50X2F0X2ZhY2UCAHVwAAAA"
     },
     "minecraft:white_bundle": {
-        "runtime_id": 876,
+        "runtime_id": 872,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sWAGJ1bmRsZV93aGl0ZV9vcGVuX2JhY2sIEQBidW5kbGVfb3Blbl9mcm9udBcAYnVuZGxlX3doaXRlX29wZW5fZnJvbnQIBwBkZWZhdWx0DABidW5kbGVfd2hpdGUAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -10104,28 +9662,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:white_concrete_double_slab": {
-        "runtime_id": -1231,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:white_concrete_powder": {
         "runtime_id": 237,
         "component_based": false,
         "version": 2
     },
-    "minecraft:white_concrete_slab": {
-        "runtime_id": -1215,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:white_concrete_stairs": {
-        "runtime_id": -1200,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:white_cushion": {
-        "runtime_id": 789,
+        "runtime_id": 787,
         "component_based": false,
         "version": 2
     },
@@ -10140,7 +9683,7 @@
         "version": 2
     },
     "minecraft:white_harness": {
-        "runtime_id": 746,
+        "runtime_id": 744,
         "component_based": false,
         "version": 2
     },
@@ -10174,23 +9717,8 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:white_wool_double_slab": {
-        "runtime_id": -1181,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:white_wool_slab": {
-        "runtime_id": -1165,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:white_wool_stairs": {
-        "runtime_id": -1150,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:wild_armor_trim_smithing_template": {
-        "runtime_id": 700,
+        "runtime_id": 698,
         "component_based": false,
         "version": 2
     },
@@ -10200,7 +9728,7 @@
         "version": 2
     },
     "minecraft:wind_charge": {
-        "runtime_id": 881,
+        "runtime_id": 877,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemVAAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgHAGRlZmF1bHQLAHdpbmRfY2hhcmdlAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAAAAAAAJCQBpdGVtX3RhZ3MAAAAAAAoSAG1pbmVjcmFmdDpjb29sZG93bggIAGNhdGVnb3J5CwB3aW5kX2NoYXJnZQUIAGR1cmF0aW9uAAAAPwgEAHR5cGUDAHVzZQAKFgBtaW5lY3JhZnQ6ZGlzcGxheV9uYW1lCAUAdmFsdWUVAGl0ZW0ud2luZF9jaGFyZ2UubmFtZQAKFABtaW5lY3JhZnQ6cHJvamVjdGlsZQUWAG1pbmltdW1fY3JpdGljYWxfcG93ZXIAAAAACBEAcHJvamVjdGlsZV9lbnRpdHkiAG1pbmVjcmFmdDp3aW5kX2NoYXJnZV9wcm9qZWN0aWxlPD4AChMAbWluZWNyYWZ0OnRocm93YWJsZQESAGRvX3N3aW5nX2FuaW1hdGlvbgEFEgBsYXVuY2hfcG93ZXJfc2NhbGUAAMA\/BREAbWF4X2RyYXdfZHVyYXRpb24AAAAABRAAbWF4X2xhdW5jaF9wb3dlcgAAwD8FEQBtaW5fZHJhd19kdXJhdGlvbgAAAAABHABzY2FsZV9wb3dlcl9ieV9kcmF3X2R1cmF0aW9uAAAAAA=="
@@ -10231,7 +9759,7 @@
         "version": 2
     },
     "minecraft:wolf_armor": {
-        "runtime_id": 723,
+        "runtime_id": 721,
         "component_based": true,
         "version": 2
     },
@@ -10241,7 +9769,7 @@
         "version": 2
     },
     "minecraft:wood": {
-        "runtime_id": 831,
+        "runtime_id": 829,
         "component_based": false,
         "version": 2
     },
@@ -10281,12 +9809,12 @@
         "version": 2
     },
     "minecraft:wooden_slab": {
-        "runtime_id": 812,
+        "runtime_id": 810,
         "component_based": false,
         "version": 2
     },
     "minecraft:wooden_spear": {
-        "runtime_id": 860,
+        "runtime_id": 856,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UBAAAACBAAZW5jaGFudGFibGVfc2xvdAsAbWVsZWVfc3BlYXIDEQBlbmNoYW50YWJsZV92YWx1ZQ8AAAABBABmb2lsAAMLAGZyYW1lX2NvdW50AQAAAAENAGhhbmRfZXF1aXBwZWQBARIAaGlkZGVuX2luX2NvbW1hbmRzAgEOAGxpcXVpZF9jbGlwcGVkAAMOAG1heF9zdGFja19zaXplAQAAAAoOAG1pbmVjcmFmdDppY29uCggAdGV4dHVyZXMIBwBkZWZhdWx0CgB3b29kX3NwZWFyAAAFDABtaW5pbmdfc3BlZWQAAIA\/AQ4Ac2hvdWxkX2Rlc3Bhd24BAQ8Ac3RhY2tlZF9ieV9kYXRhAAMNAHVzZV9hbmltYXRpb24AAAAAAwwAdXNlX2R1cmF0aW9uAPkVAAAJCQBpdGVtX3RhZ3MIAgAAABUAbWluZWNyYWZ0Ondvb2Rlbl90aWVyEgBtaW5lY3JhZnQ6aXNfc3BlYXIKEgBtaW5lY3JhZnQ6Y29vbGRvd24ICABjYXRlZ29yeQUAc3BlYXIFCABkdXJhdGlvbmZmJj8IBAB0eXBlBgBhdHRhY2sAChAAbWluZWNyYWZ0OmRhbWFnZQIFAHZhbHVlAQAAChYAbWluZWNyYWZ0OmRpc3BsYXlfbmFtZQgFAHZhbHVlFgBpdGVtLndvb2Rlbl9zcGVhci5uYW1lAAoUAG1pbmVjcmFmdDpkdXJhYmlsaXR5Cg0AZGFtYWdlX2NoYW5jZQMDAG1heGQAAAADAwBtaW4AAAAAAAMOAG1heF9kdXJhYmlsaXR5PAAAAAAKFQBtaW5lY3JhZnQ6ZW5jaGFudGFibGUIBABzbG90CwBtZWxlZV9zcGVhcgEFAHZhbHVlDwAKDgBtaW5lY3JhZnQ6ZnVlbAUIAGR1cmF0aW9uAAAgQQAKFwBtaW5lY3JhZnQ6aGFuZF9lcXVpcHBlZAEFAHZhbHVlAQAKGABtaW5lY3JhZnQ6a2luZXRpY193ZWFwb24KGABtaW5lY3JhZnQ6a2luZXRpY193ZWFwb24KDgBjcmVhdGl2ZV9yZWFjaAUDAG1heAAA8EAFAwBtaW4AAABAAAoRAGRhbWFnZV9jb25kaXRpb25zAgwAbWF4X2R1cmF0aW9uLAEFEgBtaW5fcmVsYXRpdmVfc3BlZWQzM5NABQkAbWluX3NwZWVkAAAAAAAFDwBkYW1hZ2VfbW9kaWZpZXIAAAAABREAZGFtYWdlX211bHRpcGxpZXIzMzM\/AgUAZGVsYXkPAAoTAGRpc21vdW50X2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb25kAAUSAG1pbl9yZWxhdGl2ZV9zcGVlZAAAAAAFCQBtaW5fc3BlZWQAAGBBAAUNAGhpdGJveF9tYXJnaW4AAIA+ChQAa25vY2tiYWNrX2NvbmRpdGlvbnMCDABtYXhfZHVyYXRpb27IAAUSAG1pbl9yZWxhdGl2ZV9zcGVlZAAAAAAFCQBtaW5fc3BlZWQzM6NAAAoFAHJlYWNoBQMAbWF4AACQQAUDAG1pbgAAAEAAAAAKGABtaW5lY3JhZnQ6bWF4X3N0YWNrX3NpemUBBQB2YWx1ZQEAChkAbWluZWNyYWZ0OnBpZXJjaW5nX3dlYXBvbgoOAGNyZWF0aXZlX3JlYWNoBQMAbWF4AADwQAUDAG1pbgAAAEAABQ0AaGl0Ym94X21hcmdpbgAAgD4KBQByZWFjaAUDAG1heAAAkEAFAwBtaW4AAABAAAAKFABtaW5lY3JhZnQ6cmVwYWlyYWJsZQkMAHJlcGFpcl9pdGVtcwoCAAAACQUAaXRlbXMKAQAAAAgEAG5hbWUWAG1pbmVjcmFmdDp3b29kZW5fc3BlYXIACA0AcmVwYWlyX2Ftb3VudCkAY29udGV4dC5vdGhlci0+cXVlcnkucmVtYWluaW5nX2R1cmFiaWxpdHkACQUAaXRlbXMKAQAAAAgEAHRhZ3MeAHEuYWxsX3RhZ3MoJ21pbmVjcmFmdDpwbGFua3MnKQAIDQByZXBhaXJfYW1vdW50GwBxdWVyeS5tYXhfZHVyYWJpbGl0eSAqIDAuMjUAAAoYAG1pbmVjcmFmdDpzd2luZ19kdXJhdGlvbgUFAHZhbHVlZmYmPwAKFgBtaW5lY3JhZnQ6c3dpbmdfc291bmRzCAoAYXR0YWNrX2hpdBwAaXRlbS53b29kZW5fc3BlYXIuYXR0YWNrX2hpdAgLAGF0dGFja19taXNzHQBpdGVtLndvb2Rlbl9zcGVhci5hdHRhY2tfbWlzcwAKDgBtaW5lY3JhZnQ6dGFncwkEAHRhZ3MIAgAAABUAbWluZWNyYWZ0Ondvb2Rlbl90aWVyEgBtaW5lY3JhZnQ6aXNfc3BlYXIAChcAbWluZWNyYWZ0OnVzZV9tb2RpZmllcnMBDwBlbWl0X3ZpYnJhdGlvbnMABREAbW92ZW1lbnRfbW9kaWZpZXIAAIA\/CAsAc3RhcnRfc291bmQVAGl0ZW0ud29vZGVuX3NwZWFyLnVzZQgLAHN0YXJ0X3VzaW5nBgBhbHdheXMFDAB1c2VfZHVyYXRpb24AoIxHAAAA"
@@ -10297,7 +9825,7 @@
         "version": 2
     },
     "minecraft:wool": {
-        "runtime_id": 791,
+        "runtime_id": 789,
         "component_based": false,
         "version": 2
     },
@@ -10312,7 +9840,7 @@
         "version": 2
     },
     "minecraft:yellow_bundle": {
-        "runtime_id": 877,
+        "runtime_id": 873,
         "component_based": true,
         "version": 1,
         "component_nbt": "CgAACgoAY29tcG9uZW50cwoPAGl0ZW1fcHJvcGVydGllcwEOAGFsbG93X29mZl9oYW5kAAEXAGNhbl9kZXN0cm95X2luX2NyZWF0aXZlAQMRAGNyZWF0aXZlX2NhdGVnb3J5AwAAAAgOAGNyZWF0aXZlX2dyb3VwAAADBgBkYW1hZ2UAAAAACBAAZW5jaGFudGFibGVfc2xvdAQAbm9uZQMRAGVuY2hhbnRhYmxlX3ZhbHVlAAAAAAEEAGZvaWwAAwsAZnJhbWVfY291bnQBAAAAAQ0AaGFuZF9lcXVpcHBlZAABEgBoaWRkZW5faW5fY29tbWFuZHMCAQ4AbGlxdWlkX2NsaXBwZWQAAw4AbWF4X3N0YWNrX3NpemUBAAAACg4AbWluZWNyYWZ0Omljb24KCAB0ZXh0dXJlcwgQAGJ1bmRsZV9vcGVuX2JhY2sXAGJ1bmRsZV95ZWxsb3dfb3Blbl9iYWNrCBEAYnVuZGxlX29wZW5fZnJvbnQYAGJ1bmRsZV95ZWxsb3dfb3Blbl9mcm9udAgHAGRlZmF1bHQNAGJ1bmRsZV95ZWxsb3cAAAUMAG1pbmluZ19zcGVlZAAAgD8BDgBzaG91bGRfZGVzcGF3bgEBDwBzdGFja2VkX2J5X2RhdGEAAw0AdXNlX2FuaW1hdGlvbgAAAAADDAB1c2VfZHVyYXRpb24AAAAAAAkJAGl0ZW1fdGFncwAAAAAAChwAbWluZWNyYWZ0OmJ1bmRsZV9pbnRlcmFjdGlvbgMSAG51bV92aWV3YWJsZV9zbG90cwwAAAAAChgAbWluZWNyYWZ0Om1heF9zdGFja19zaXplAQUAdmFsdWUBAAoWAG1pbmVjcmFmdDpzdG9yYWdlX2l0ZW0BGgBhbGxvd19uZXN0ZWRfc3RvcmFnZV9pdGVtcwEJDQBhbGxvd2VkX2l0ZW1zAAAAAAAJDABiYW5uZWRfaXRlbXMKAgAAAAgEAG5hbWUVAG1pbmVjcmFmdDpzaHVsa2VyX2JveAAIBABuYW1lHABtaW5lY3JhZnQ6dW5keWVkX3NodWxrZXJfYm94AAMJAG1heF9zbG90c0AAAAAACh4AbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X2xpbWl0AxAAbWF4X3dlaWdodF9saW1pdEAAAAAACiEAbWluZWNyYWZ0OnN0b3JhZ2Vfd2VpZ2h0X21vZGlmaWVyAxYAd2VpZ2h0X2luX3N0b3JhZ2VfaXRlbQQAAAAAAAA="
@@ -10337,28 +9865,13 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:yellow_concrete_double_slab": {
-        "runtime_id": -1238,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:yellow_concrete_powder": {
         "runtime_id": -712,
         "component_based": false,
         "version": 2
     },
-    "minecraft:yellow_concrete_slab": {
-        "runtime_id": -1222,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:yellow_concrete_stairs": {
-        "runtime_id": -1205,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:yellow_cushion": {
-        "runtime_id": 790,
+        "runtime_id": 788,
         "component_based": false,
         "version": 2
     },
@@ -10373,7 +9886,7 @@
         "version": 2
     },
     "minecraft:yellow_harness": {
-        "runtime_id": 747,
+        "runtime_id": 745,
         "component_based": false,
         "version": 2
     },
@@ -10407,21 +9920,6 @@
         "component_based": false,
         "version": 2
     },
-    "minecraft:yellow_wool_double_slab": {
-        "runtime_id": -1188,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:yellow_wool_slab": {
-        "runtime_id": -1172,
-        "component_based": false,
-        "version": 2
-    },
-    "minecraft:yellow_wool_stairs": {
-        "runtime_id": -1155,
-        "component_based": false,
-        "version": 2
-    },
     "minecraft:zoglin_spawn_egg": {
         "runtime_id": 503,
         "component_based": false,
@@ -10438,7 +9936,7 @@
         "version": 2
     },
     "minecraft:zombie_nautilus_spawn_egg": {
-        "runtime_id": 761,
+        "runtime_id": 759,
         "component_based": false,
         "version": 2
     },
